@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   Chowkidar:
   - apiVersion: v1
-    created: 2018-05-21T10:26:33.545368222Z
+    created: 2018-05-21T10:32:46.770474809Z
     description: Chowkidar chart that runs on kubernetes
     digest: eb2d5e039b1308050b184571f4da67584441aeb7b153ade8640f5cd0f70e0fe7
     home: https://github.com/stakater/Chowkidar
@@ -17,7 +17,7 @@ entries:
     - https://stakater.github.io/stakater-charts/Chowkidar-0.0.21.tgz
     version: 0.0.21
   - apiVersion: v1
-    created: 2018-05-21T10:26:33.545106811Z
+    created: 2018-05-21T10:32:46.768946796Z
     description: Chowkidar chart that runs on kubernetes
     digest: 4e8462410c2906f874c076942fc516710eba3e1f52e0a07b41488cf1dfb78e65
     home: https://github.com/stakater/Chowkidar
@@ -31,4 +31,20 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/Chowkidar-0.0.19.tgz
     version: 0.0.19
-generated: 2018-05-21T10:26:33.544698006Z
+  Jamadar:
+  - apiVersion: v1
+    created: 2018-05-21T10:32:46.774171546Z
+    description: Jamadar chart that runs on kubernetes
+    digest: 7d1c1212731f4468c6ace073fed14c7776003f3d594fab3fd121c9c8a45858fd
+    home: https://github.com/stakater/Jamadar
+    keywords:
+    - Jamadar
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    name: Jamadar
+    urls:
+    - https://stakater.github.io/stakater-charts/Jamadar-0.0.4.tgz
+    version: 0.0.4
+generated: 2018-05-21T10:32:46.768286781Z
