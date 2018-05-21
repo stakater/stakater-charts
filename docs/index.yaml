@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  Chowkidar:
+  - apiVersion: v1
+    created: 2018-05-21T09:57:06.198316676Z
+    description: Chowkidar chart that runs on kubernetes
+    digest: 4e8462410c2906f874c076942fc516710eba3e1f52e0a07b41488cf1dfb78e65
+    home: https://github.com/stakater/Chowkidar
+    keywords:
+    - Chowkidar
+    - kubernetes
+    maintainers:
+    - email: stakater@aurorasolutions.io
+      name: Stakater
+    name: Chowkidar
+    urls:
+    - https://stakater.github.io/charts/Chowkidar-0.0.19.tgz
+    version: 0.0.19
+generated: 2018-05-21T09:57:06.197663853Z
