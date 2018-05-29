@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   Chowkidar:
   - apiVersion: v1
-    created: 2018-05-29T09:36:46.256446382Z
+    created: 2018-05-29T12:00:35.804439209Z
     description: Chowkidar chart that runs on kubernetes
     digest: f435201741dac15e1478f789f6d8107764fe8cebe307989adc6d386cb71d332a
     home: https://github.com/stakater/Chowkidar
@@ -17,7 +17,7 @@ entries:
     - https://stakater.github.io/stakater-charts/Chowkidar-0.0.22.tgz
     version: 0.0.22
   - apiVersion: v1
-    created: 2018-05-29T09:36:46.255733078Z
+    created: 2018-05-29T12:00:35.804196521Z
     description: Chowkidar chart that runs on kubernetes
     digest: eb2d5e039b1308050b184571f4da67584441aeb7b153ade8640f5cd0f70e0fe7
     home: https://github.com/stakater/Chowkidar
@@ -32,7 +32,7 @@ entries:
     - https://stakater.github.io/stakater-charts/Chowkidar-0.0.21.tgz
     version: 0.0.21
   - apiVersion: v1
-    created: 2018-05-29T09:36:46.254965583Z
+    created: 2018-05-29T12:00:35.803917384Z
     description: Chowkidar chart that runs on kubernetes
     digest: 4e8462410c2906f874c076942fc516710eba3e1f52e0a07b41488cf1dfb78e65
     home: https://github.com/stakater/Chowkidar
@@ -48,7 +48,22 @@ entries:
     version: 0.0.19
   GitWebhookProxy:
   - apiVersion: v1
-    created: 2018-05-29T09:36:46.25719219Z
+    created: 2018-05-29T12:00:35.804950224Z
+    description: GitWebhookProxy chart that runs on kubernetes
+    digest: 64e3a285a665c292927ab7b01fe3d607f2c88cef47cccd749608d265a436bd6d
+    home: https://github.com/stakater/GitWebhookProxy
+    keywords:
+    - GitWebhookProxy
+    - kubernetes
+    maintainers:
+    - email: stakater@aurorasolutions.io
+      name: Stakater
+    name: GitWebhookProxy
+    urls:
+    - https://stakater.github.io/stakater-charts/GitWebhookProxy-0.2.30.tgz
+    version: 0.2.30
+  - apiVersion: v1
+    created: 2018-05-29T12:00:35.804686576Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 93db708bbaca8f9b9982b60e08ac2fe33146241ea7f286a123c9af6984cfbd57
     home: https://github.com/stakater/GitWebhookProxy
@@ -64,7 +79,7 @@ entries:
     version: 0.2.29
   IngressMonitorController:
   - apiVersion: v1
-    created: 2018-05-29T09:36:46.257836317Z
+    created: 2018-05-29T12:00:35.805204729Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: cbfbcbb85dd8f11bd749df735377925b0fdf1417cdb1874da9665f34fa767311
     home: https://github.com/stakater/IngressMonitorController
@@ -80,7 +95,7 @@ entries:
     version: 1.0.9
   Jamadar:
   - apiVersion: v1
-    created: 2018-05-29T09:36:46.258415689Z
+    created: 2018-05-29T12:00:35.805684047Z
     description: Jamadar chart that runs on kubernetes
     digest: 31b543a01c47370b2255466f3250ff56c55f8b40832dbb8c8fe52ae30fe595da
     home: https://github.com/stakater/Jamadar
@@ -95,7 +110,7 @@ entries:
     - https://stakater.github.io/stakater-charts/Jamadar-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
-    created: 2018-05-29T09:36:46.25812378Z
+    created: 2018-05-29T12:00:35.80544102Z
     description: Jamadar chart that runs on kubernetes
     digest: 7d1c1212731f4468c6ace073fed14c7776003f3d594fab3fd121c9c8a45858fd
     home: https://github.com/stakater/Jamadar
@@ -109,4 +124,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/Jamadar-0.0.4.tgz
     version: 0.0.4
-generated: 2018-05-29T09:36:46.253645178Z
+generated: 2018-05-29T12:00:35.803039296Z
