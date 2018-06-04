@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   chowkidar:
   - apiVersion: v1
-    created: 2018-06-04T11:06:15.866237333Z
+    created: 2018-06-04T11:10:47.616764594Z
     description: Chowkidar chart that runs on kubernetes
     digest: 1394a804e9e4fe51c1675cd19d0c3e6bfdf1b6c97ba0514911f328ad55b6b2ab
     home: https://github.com/stakater/Chowkidar
@@ -18,7 +18,7 @@ entries:
     version: 0.0.24
   gitwebhookproxy:
   - apiVersion: v1
-    created: 2018-06-04T11:06:15.866719541Z
+    created: 2018-06-04T11:10:47.617014584Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: d3d4ddded2fb4010147c65499923395fcfb388adcc9efb76aa04d81a213dfafa
     home: https://github.com/stakater/GitWebhookProxy
@@ -32,9 +32,25 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.31.tgz
     version: 0.2.31
+  ingressmonitorcontroller:
+  - apiVersion: v1
+    created: 2018-06-04T11:10:47.617259029Z
+    description: IngressMonitorController chart that runs on kubernetes
+    digest: 7158169661e8a608d4ec95fea433e425b6efc0dc116f362c4edf87b3beb20443
+    home: https://github.com/stakater/IngressMonitorController
+    keywords:
+    - IngressMonitorController
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    name: ingressmonitorcontroller
+    urls:
+    - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.12.tgz
+    version: 1.0.12
   jamadar:
   - apiVersion: v1
-    created: 2018-06-04T11:06:15.867251018Z
+    created: 2018-06-04T11:10:47.617612651Z
     description: Jamadar chart that runs on kubernetes
     digest: f56914f08c950f6f1e0cd906db614de2e2468a21f148069d39697d7aef360b30
     home: https://github.com/stakater/Jamadar
@@ -48,4 +64,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/jamadar-0.0.6.tgz
     version: 0.0.6
-generated: 2018-06-04T11:06:15.865604141Z
+generated: 2018-06-04T11:10:47.616306909Z
