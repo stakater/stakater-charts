@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   alertmanager:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.093588086Z
+    created: 2018-11-27T11:50:59.206393311Z
     description: alertmanager chart that runs on kubernetes
     digest: 4b772ad8aa52ce4301d213554b98a591884fbc7a0497921e4bbeb39537b60fe8
     home: https://github.com/stakater-charts/alertmanager
@@ -17,7 +17,7 @@ entries:
     - https://stakater.github.io/stakater-charts/alertmanager-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.095828991Z
+    created: 2018-11-27T11:50:59.208760789Z
     description: alertmanager chart that runs on kubernetes
     digest: 0e9947b983e34b47dd6b5ec4fc60664a27d49e4dbd49849491bfc6ca7f3a3550
     home: https://github.com/stakater-charts/alertmanager
@@ -32,7 +32,7 @@ entries:
     - https://stakater.github.io/stakater-charts/alertmanager-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.095556178Z
+    created: 2018-11-27T11:50:59.208476392Z
     description: alertmanager chart that runs on kubernetes
     digest: f87474c524eb78ed7d089393efa70bc17fa6ec0f10dba7adcd8f886d999838ed
     home: https://github.com/stakater/chart-alertmanager
@@ -47,7 +47,7 @@ entries:
     - https://stakater.github.io/stakater-charts/alertmanager-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.095267186Z
+    created: 2018-11-27T11:50:59.208148959Z
     description: alertmanager chart that runs on kubernetes
     digest: 675dab5b05cf6bcdbc9f9740b025470c5b1fb80231e77190dbe9361fbbf6c6f2
     home: https://github.com/stakater/chart-alertmanager
@@ -62,7 +62,7 @@ entries:
     - https://stakater.github.io/stakater-charts/alertmanager-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.095006705Z
+    created: 2018-11-27T11:50:59.20785705Z
     description: alertmanager chart that runs on kubernetes
     digest: daa4789eb56b636c545b561216bc9e00f0a869ddce60e68c57562820671b866b
     home: https://github.com/stakater/chart-alertmanager
@@ -77,7 +77,7 @@ entries:
     - https://stakater.github.io/stakater-charts/alertmanager-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.094752352Z
+    created: 2018-11-27T11:50:59.207583592Z
     description: alertmanager chart that runs on kubernetes
     digest: bd85dcbca3c29321d7530a206c11b46b6b1526f45467595b345382f7c0afadb3
     home: https://github.com/stakater/chart-alertmanager
@@ -92,7 +92,7 @@ entries:
     - https://stakater.github.io/stakater-charts/alertmanager-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.094472547Z
+    created: 2018-11-27T11:50:59.207297438Z
     description: alertmanager chart that runs on kubernetes
     digest: 5078f0cd2ef7d2350384da3fb8a950db694b5c26dbf28eb977e2bbf9361126cb
     home: https://github.com/stakater/chart-alertmanager
@@ -107,7 +107,7 @@ entries:
     - https://stakater.github.io/stakater-charts/alertmanager-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.094142795Z
+    created: 2018-11-27T11:50:59.207009849Z
     description: alertmanager chart that runs on kubernetes
     digest: e4b5a3261db7ef8444da46e2d9732e954ab7ca018a2688c42fb7e480213ee389
     home: https://github.com/stakater/chart-alertmanager
@@ -122,7 +122,7 @@ entries:
     - https://stakater.github.io/stakater-charts/alertmanager-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.093853767Z
+    created: 2018-11-27T11:50:59.206701981Z
     description: alertmanager chart that runs on kubernetes
     digest: c905874e0c1073aa0a967b5ae6c96b63299ffaa371a4e7507eb31cb35c436af8
     home: https://github.com/stakater/chart-alertmanager
@@ -138,7 +138,7 @@ entries:
     version: 1.0.2
   chartmuseum:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.096394392Z
+    created: 2018-11-27T11:50:59.20936871Z
     description: ChartMuseum chart that runs on kubernetes
     digest: 0f110eac60360ca5be1be98151400b40b75898697649ec555e2aef81726cce09
     home: https://github.com/stakater-charts/chartmuseum
@@ -155,7 +155,7 @@ entries:
     - https://stakater.github.io/stakater-charts/chartmuseum-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.096102284Z
+    created: 2018-11-27T11:50:59.209071711Z
     description: ChartMuseum chart that runs on kubernetes
     digest: 831bcb2d49ea7375226768eaf7bdd2b8434699173f7dd27c2d641f75ece0f62f
     home: https://github.com/stakater-charts/chartmuseum
@@ -173,7 +173,7 @@ entries:
     version: 1.0.11
   chartmuseum-storage:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.096863599Z
+    created: 2018-11-27T11:50:59.209867807Z
     description: Chart that deploys PV and PVC for use with ChartMuseum chart
     digest: 95861ed105a368a94b6dc50523182ac1e2d0a60e8df662b82d45488f2f4c2490
     home: https://github.com/stakater-charts/chartmuseum
@@ -190,7 +190,7 @@ entries:
     - https://stakater.github.io/stakater-charts/chartmuseum-storage-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.096636958Z
+    created: 2018-11-27T11:50:59.209631316Z
     description: Chart that deploys PV and PVC for use with ChartMuseum chart
     digest: 9c809e2654280f49414dc7e858ee502e869766e2e47d34f99a2c7f6b25e4cacd
     home: https://github.com/stakater-charts/chartmuseum
@@ -208,7 +208,7 @@ entries:
     version: 1.0.11
   chowkidar:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.098185484Z
+    created: 2018-11-27T11:50:59.211209199Z
     description: Chowkidar chart that runs on kubernetes
     digest: 5aeb59e08f112433b7993d0fa343b99fe7c5df3cf096e91df8e2ceb0ce69ecb6
     home: https://github.com/stakater/Chowkidar
@@ -223,7 +223,7 @@ entries:
     - https://stakater.github.io/stakater-charts/chowkidar-0.0.28.tgz
     version: 0.0.28
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.097935979Z
+    created: 2018-11-27T11:50:59.210952971Z
     description: Chowkidar chart that runs on kubernetes
     digest: cf65770d1b8e3a628ba0363c04a962ed094ca8925945d83247df75acd8ec9c3d
     home: https://github.com/stakater/Chowkidar
@@ -238,7 +238,7 @@ entries:
     - https://stakater.github.io/stakater-charts/chowkidar-0.0.27.tgz
     version: 0.0.27
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.097675903Z
+    created: 2018-11-27T11:50:59.210677954Z
     description: Chowkidar chart that runs on kubernetes
     digest: 8b523db19892028cba3928014fa33b6a11e238800c9bb1b8ed4b53a0a917f21d
     home: https://github.com/stakater/Chowkidar
@@ -253,7 +253,7 @@ entries:
     - https://stakater.github.io/stakater-charts/chowkidar-0.0.26.tgz
     version: 0.0.26
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.097424746Z
+    created: 2018-11-27T11:50:59.210421263Z
     description: Chowkidar chart that runs on kubernetes
     digest: 89770819c5a24c62e92912960e592a0f1dc6b2b72bd7dbdfc31e99c3454a30e2
     home: https://github.com/stakater/Chowkidar
@@ -268,7 +268,7 @@ entries:
     - https://stakater.github.io/stakater-charts/chowkidar-0.0.25.tgz
     version: 0.0.25
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.097128562Z
+    created: 2018-11-27T11:50:59.210157517Z
     description: Chowkidar chart that runs on kubernetes
     digest: 1394a804e9e4fe51c1675cd19d0c3e6bfdf1b6c97ba0514911f328ad55b6b2ab
     home: https://github.com/stakater/Chowkidar
@@ -284,7 +284,7 @@ entries:
     version: 0.0.24
   configmap:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.098403081Z
+    created: 2018-11-27T11:50:59.21142091Z
     description: ConfigMap chart that runs on kubernetes
     digest: 29c3a93db900b6c66e30afcac6ce331b93e4dff3e606f7528d9ed3ce17ce85e1
     home: https://github.com/stakater-charts/configmap
@@ -300,7 +300,7 @@ entries:
     version: 1.0.1
   configmapcontroller:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.099128119Z
+    created: 2018-11-27T11:50:59.212224792Z
     description: configmapcontroller chart that runs on kubernetes
     digest: 1d8ca6ffeb26e0785706783d48ae6773bf24b78779823cddccc57e9885fb2c59
     home: https://github.com/stakater/chart-configmapcontroller
@@ -315,7 +315,7 @@ entries:
     - https://stakater.github.io/stakater-charts/configmapcontroller-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.098896627Z
+    created: 2018-11-27T11:50:59.211953277Z
     description: configmapcontroller chart that runs on kubernetes
     digest: 38a913868781b4130b0c963675942f98e83e1c57064e75431eac6042ee0f6af8
     home: https://github.com/stakater/chart-configmapcontroller
@@ -330,7 +330,7 @@ entries:
     - https://stakater.github.io/stakater-charts/configmapcontroller-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.098660874Z
+    created: 2018-11-27T11:50:59.211692798Z
     description: configmapcontroller chart that runs on kubernetes
     digest: 0f7d3fef1241d3110821742985c1ec09bb021d2ad2b676c7fd3877cb63f6f4af
     home: https://github.com/stakater/chart-configmapcontroller
@@ -346,7 +346,7 @@ entries:
     version: 1.0.10
   default-backend:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.099375057Z
+    created: 2018-11-27T11:50:59.213000746Z
     description: default-backend chart that runs on kubernetes
     digest: 35b3c0854edfc75270ae536195fd98ed87e443745767d83e78b1cbabf8533069
     home: https://github.com/stakater-charts/default-backend
@@ -362,7 +362,7 @@ entries:
     version: 0.0.2
   exposecontroller:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.102197465Z
+    created: 2018-11-27T11:50:59.215699349Z
     description: exposecontroller chart that runs on kubernetes
     digest: 72951b4bdd65455c68062031b0d7e25c48b813b242410d8723be158749c3bd48
     home: https://github.com/stakater/chart-exposecontroller
@@ -377,7 +377,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.17.tgz
     version: 1.0.17
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.101720062Z
+    created: 2018-11-27T11:50:59.215415542Z
     description: exposecontroller chart that runs on kubernetes
     digest: 0bf45546fb6cee416aba1a2ba3698f3a6d80eb493de2768173a9ae433a8e3b53
     home: https://github.com/stakater/chart-exposecontroller
@@ -392,7 +392,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.16.tgz
     version: 1.0.16
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.101092921Z
+    created: 2018-11-27T11:50:59.215136562Z
     description: exposecontroller chart that runs on kubernetes
     digest: 8432d2317adcd1efa0abab928fda583650dc4fe0fda4dc0cd906bad9833f8220
     home: https://github.com/stakater/chart-exposecontroller
@@ -407,7 +407,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.100816418Z
+    created: 2018-11-27T11:50:59.214840229Z
     description: exposecontroller chart that runs on kubernetes
     digest: f7d8da25081850d0a59436b9e920a6a2faaf454b34b76e281cd97d43efb91eb0
     home: https://github.com/stakater/chart-exposecontroller
@@ -422,7 +422,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.100536451Z
+    created: 2018-11-27T11:50:59.214549362Z
     description: exposecontroller chart that runs on kubernetes
     digest: e77bb6699cbb5348a80130f89bda4a63d22dc9ec6397bd691d44da5af2f1242f
     home: https://github.com/stakater/chart-exposecontroller
@@ -437,7 +437,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.100224275Z
+    created: 2018-11-27T11:50:59.214252064Z
     description: exposecontroller chart that runs on kubernetes
     digest: 697b9d52a5643e8b83fd328b82063c4e9c17bf5c8c73e92674c6aaa4554279ab
     home: https://github.com/stakater/chart-exposecontroller
@@ -452,7 +452,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.099948345Z
+    created: 2018-11-27T11:50:59.213965982Z
     description: exposecontroller chart that runs on kubernetes
     digest: 16a8c224d9fbd89295773c8de7a4714c0a4a023abadbfe1b02ca1f0eaf150266
     home: https://github.com/stakater/chart-exposecontroller
@@ -467,7 +467,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.09966147Z
+    created: 2018-11-27T11:50:59.213570686Z
     description: exposecontroller chart that runs on kubernetes
     digest: f8f176b5e7308e4a4e395eaaf1dee7566fa267a609eaae8394989016c85cb829
     home: https://github.com/stakater/chart-exposecontroller
@@ -482,7 +482,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.104025861Z
+    created: 2018-11-27T11:50:59.217116193Z
     description: exposecontroller chart that runs on kubernetes
     digest: b40c82dc78915c6246e4106849b53d780baa0b16994df6cc42a91fa958dc7e37
     home: https://github.com/stakater/chart-exposecontroller
@@ -497,7 +497,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.103755863Z
+    created: 2018-11-27T11:50:59.216814523Z
     description: exposecontroller chart that runs on kubernetes
     digest: d0f9ae4268e4c6abb380f9de2ee8b49c7db22b80423200bd151287cbb1786dd4
     home: https://github.com/stakater/chart-exposecontroller
@@ -512,7 +512,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.103473451Z
+    created: 2018-11-27T11:50:59.216546708Z
     description: exposecontroller chart that runs on kubernetes
     digest: b912fa4cd175e9e9898bf2bd0ec310167e4747639b0da9d6f3045c5ddd475fdd
     home: https://github.com/stakater/chart-exposecontroller
@@ -527,7 +527,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.103174952Z
+    created: 2018-11-27T11:50:59.216286724Z
     description: exposecontroller chart that runs on kubernetes
     digest: 5df31a2734c2b2df41edb22e53343b8cbc795232a17691900b255a58a2a4bd46
     home: https://github.com/stakater/chart-exposecontroller
@@ -542,7 +542,7 @@ entries:
     - https://stakater.github.io/stakater-charts/exposecontroller-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.102758928Z
+    created: 2018-11-27T11:50:59.216000515Z
     description: exposecontroller chart that runs on kubernetes
     digest: 319e8561498f189d04765ac26705fc187cdda09eea0356bf9db2c2c8d01044bd
     home: https://github.com/stakater/chart-exposecontroller
@@ -558,7 +558,7 @@ entries:
     version: 1.0.5
   external-ingress:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.104309778Z
+    created: 2018-11-27T11:50:59.217395794Z
     description: External Ingress Controller chart that runs on kubernetes
     digest: 7f4f20b3210dff50b369bef179cbce807bd0364ee13bfb7b52aeabc83c051feb
     home: https://github.com/stakater-charts/ingress-controllers
@@ -574,7 +574,7 @@ entries:
     version: 1.0.8
   fluentd:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.104908146Z
+    created: 2018-11-27T11:50:59.218046663Z
     description: fluentd chart that runs on kubernetes
     digest: 5d76606f3550577c3fc6220e0c8d5835ace424fdbe2727dce40f232bd0b4ebd7
     home: https://github.com/stakater-charts/fluentd
@@ -589,7 +589,7 @@ entries:
     - https://stakater.github.io/stakater-charts/fluentd-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.104620709Z
+    created: 2018-11-27T11:50:59.217710472Z
     description: fluentd chart that runs on kubernetes
     digest: 056fe66d08e6eff3d95e3e468f10e8ed20181579ec7b9f037dd0bcf021b0111c
     home: https://github.com/stakater-charts/fluentd
@@ -605,7 +605,7 @@ entries:
     version: 1.0.11
   forecastle:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.114635849Z
+    created: 2018-11-27T11:50:59.227103486Z
     description: forecastle chart that runs on kubernetes
     digest: 972fe4195d1f31fa1ca867be80047c4373eb44d3fd84099b1ff450dd7bd3b1b0
     home: https://github.com/stakater/Forecastle
@@ -620,7 +620,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.114159795Z
+    created: 2018-11-27T11:50:59.226840696Z
     description: forecastle chart that runs on kubernetes
     digest: 7229352464aa8cf713f755a9e40df6799bf5c197d73da0a5eb80945555369c6f
     home: https://github.com/stakater/Forecastle
@@ -635,7 +635,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.113483334Z
+    created: 2018-11-27T11:50:59.226600745Z
     description: forecastle chart that runs on kubernetes
     digest: d926a62e71f01e9aafd1051de0c6bb9c701ca5d2274d155d8baac21ce81d4ad6
     home: https://github.com/stakater/Forecastle
@@ -650,7 +650,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.113190859Z
+    created: 2018-11-27T11:50:59.226328096Z
     description: forecastle chart that runs on kubernetes
     digest: 3f92fad5a6468f591157f6d9414d491bc834f981215c1e228f65ec7089eef65a
     home: https://github.com/stakater/Forecastle
@@ -665,7 +665,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.112918467Z
+    created: 2018-11-27T11:50:59.226073911Z
     description: forecastle chart that runs on kubernetes
     digest: 3d065a3f86d6e10bb5bd623a040f4a4f375832242fda2778ed64ee6729eb386f
     home: https://github.com/stakater/Forecastle
@@ -680,7 +680,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.1162103Z
+    created: 2018-11-27T11:50:59.228379882Z
     description: forecastle chart that runs on kubernetes
     digest: d77933caaf9354ab572fdae1d5254da21d0e50ae4ee76396cb842839685b4e29
     home: https://github.com/stakater/Forecastle
@@ -695,7 +695,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.115940342Z
+    created: 2018-11-27T11:50:59.228122427Z
     description: forecastle chart that runs on kubernetes
     digest: d7c81c2330c1dd22bb2d2840006e12349bcc1925387ecb5b4271c532c77e3603
     home: https://github.com/stakater/Forecastle
@@ -710,7 +710,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.115694742Z
+    created: 2018-11-27T11:50:59.22783731Z
     description: forecastle chart that runs on kubernetes
     digest: cd6d7d1d897c05fae9c040c653bac9fd2db84ca68d8cb119c36a5d84a93b695d
     home: https://github.com/stakater/Forecastle
@@ -725,7 +725,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.115430214Z
+    created: 2018-11-27T11:50:59.227591041Z
     description: forecastle chart that runs on kubernetes
     digest: c3ea9708210b7aeafa8c80b0bd25bf3fae94f777bff2bb2afa50806b1c22c6de
     home: https://github.com/stakater/Forecastle
@@ -740,7 +740,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.115117902Z
+    created: 2018-11-27T11:50:59.227347661Z
     description: forecastle chart that runs on kubernetes
     digest: 7bdefea3b2eaf40b8a3d44cf5af8168381206c84db8842cd9329f255cbd07835
     home: https://github.com/stakater/Forecastle
@@ -755,7 +755,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.112652314Z
+    created: 2018-11-27T11:50:59.225714661Z
     description: forecastle chart that runs on kubernetes
     digest: 4a080a2fdf1936185bcda9a57f567a9e99a17269efbaa67d5289927a15872bdb
     home: https://github.com/stakater/Forecastle
@@ -770,7 +770,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.112382501Z
+    created: 2018-11-27T11:50:59.225452193Z
     description: forecastle chart that runs on kubernetes
     digest: 2b22a5aedcd52f038f09297a0c2b423d590e68ff9dd742b763f7374f70acadb0
     home: https://github.com/stakater/Forecastle
@@ -785,7 +785,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.110131102Z
+    created: 2018-11-27T11:50:59.222319422Z
     description: forecastle chart that runs on kubernetes
     digest: fa5d5681e06b40a685a1169b3bdffe8f18177127b3ae0c68a16bf440746aa45a
     home: https://github.com/stakater/Forecastle
@@ -800,7 +800,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.22.tgz
     version: 0.0.22
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.109867239Z
+    created: 2018-11-27T11:50:59.222034242Z
     description: forecastle chart that runs on kubernetes
     digest: 013a14f5a2f913d4744d811279294c087993c7ca291feef63b8246c614ad714b
     home: https://github.com/stakater/Forecastle
@@ -815,7 +815,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.21.tgz
     version: 0.0.21
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.109601195Z
+    created: 2018-11-27T11:50:59.221736644Z
     description: forecastle chart that runs on kubernetes
     digest: 408cdcd72cb58d8f469d731e70fed5524b1c17c38ac82b1029a8ff2cfc1a487f
     home: https://github.com/stakater/Forecastle
@@ -830,7 +830,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.20.tgz
     version: 0.0.20
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.109005119Z
+    created: 2018-11-27T11:50:59.221172353Z
     description: forecastle chart that runs on kubernetes
     digest: fe353fbec3411dbe3ae3f1e1c3e575bd4d86925dd655a2e69d7e3e8e5e354d48
     home: https://github.com/stakater/Forecastle
@@ -845,7 +845,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.19.tgz
     version: 0.0.19
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.108749202Z
+    created: 2018-11-27T11:50:59.220869126Z
     description: forecastle chart that runs on kubernetes
     digest: 81c80ecbee719d957b48d03ee40068870874c09a0443ea2a3d37bd6ab7e238f7
     home: https://github.com/stakater/Forecastle
@@ -860,7 +860,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.18.tgz
     version: 0.0.18
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.10848222Z
+    created: 2018-11-27T11:50:59.220604158Z
     description: forecastle chart that runs on kubernetes
     digest: db1d728c1a7d29e72b85d017aeb61f309a60ee8cfe4a5f281cd9f16ae435df4e
     home: https://github.com/stakater/Forecastle
@@ -875,7 +875,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.17.tgz
     version: 0.0.17
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.10821594Z
+    created: 2018-11-27T11:50:59.220323016Z
     description: forecastle chart that runs on kubernetes
     digest: e2583f9e9abe79d8e78b8c1027eaac84726f6ece60c44898f3538d1c81caae40
     home: https://github.com/stakater/Forecastle
@@ -890,7 +890,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.16.tgz
     version: 0.0.16
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.107951565Z
+    created: 2018-11-27T11:50:59.220045032Z
     description: forecastle chart that runs on kubernetes
     digest: 0d6907c158ccb52fe1417abf7726ae98c99ccd42446a9ef53abc5a7ea03d6658
     home: https://github.com/stakater/Forecastle
@@ -905,7 +905,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.15.tgz
     version: 0.0.15
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.107682263Z
+    created: 2018-11-27T11:50:59.219730033Z
     description: forecastle chart that runs on kubernetes
     digest: 55810f4cfef560788f8003d083234bee216ed1da507d9bf3b878705c295edcb8
     home: https://github.com/stakater/Forecastle
@@ -920,7 +920,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.14.tgz
     version: 0.0.14
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.107398596Z
+    created: 2018-11-27T11:50:59.2194476Z
     description: forecastle chart that runs on kubernetes
     digest: cd7882a52591c5df6b674db48230b9dfd08525504406cd8897e4f55f18eee487
     home: https://github.com/stakater/Forecastle
@@ -935,7 +935,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.13.tgz
     version: 0.0.13
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.107113542Z
+    created: 2018-11-27T11:50:59.219178463Z
     description: forecastle chart that runs on kubernetes
     digest: 440c949b46d3785b6581e5910e412314a5b696b56d8bed53115a73f052dcc4ca
     home: https://github.com/stakater/Forecastle
@@ -950,7 +950,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.12.tgz
     version: 0.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.106836443Z
+    created: 2018-11-27T11:50:59.218892813Z
     description: forecastle chart that runs on kubernetes
     digest: 810457e96b26801c8193c1604d4142fcb63de73d6bb4fc4c98e4a2d5be8ea417
     home: https://github.com/stakater/Forecastle
@@ -965,7 +965,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.11.tgz
     version: 0.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.106550491Z
+    created: 2018-11-27T11:50:59.21860186Z
     description: forecastle chart that runs on kubernetes
     digest: f965631ff301443d99a6f84f2269c1e1cd9eaa3cb8510c9c7dc9b588e60ee110
     home: https://github.com/stakater/Forecastle
@@ -980,7 +980,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.10.tgz
     version: 0.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.112105781Z
+    created: 2018-11-27T11:50:59.22518786Z
     description: forecastle chart that runs on kubernetes
     digest: f741c67a32f4309860a102e1b7be884ab3c22d48b5146e3bd00691c887593889
     home: https://github.com/stakater/Forecastle
@@ -995,7 +995,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.111830939Z
+    created: 2018-11-27T11:50:59.224918726Z
     description: forecastle chart that runs on kubernetes
     digest: c3aa33771fb5c2a3e1808f0e1cd470ec0dcb159b2ef9f94fd1420cf94a64af61
     home: https://github.com/stakater/Forecastle
@@ -1010,7 +1010,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.111551226Z
+    created: 2018-11-27T11:50:59.224560022Z
     description: forecastle chart that runs on kubernetes
     digest: 2481969f1e2d98562c6076e85cf8b69b8f97325cf3b62ddb2db139a23bf796e6
     home: https://github.com/stakater/Forecastle
@@ -1025,7 +1025,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.111295633Z
+    created: 2018-11-27T11:50:59.224010117Z
     description: forecastle chart that runs on kubernetes
     digest: dcf247a28608f9b2d0e4891283b780a1ed8e0c9ee0d218e089ead4a64d357d48
     home: https://github.com/stakater/Forecastle
@@ -1040,7 +1040,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.110983424Z
+    created: 2018-11-27T11:50:59.223484019Z
     description: forecastle chart that runs on kubernetes
     digest: 30b6892890cf67d2a1586af545f1465217fddab37775070882729dad0d8358be
     home: https://github.com/stakater/Forecastle
@@ -1055,7 +1055,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.110709904Z
+    created: 2018-11-27T11:50:59.222869429Z
     description: forecastle chart that runs on kubernetes
     digest: e9528d3a5465d9c14e7166ae74d9244f92901aeb505abccddbe6e04e9d5433e6
     home: https://github.com/stakater/Forecastle
@@ -1070,7 +1070,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.110447203Z
+    created: 2018-11-27T11:50:59.222594708Z
     description: forecastle chart that runs on kubernetes
     digest: e9e09106beb534ca92daa73cbc7096e243ce1a25f5ae4af37244281608ee4866
     home: https://github.com/stakater/Forecastle
@@ -1085,7 +1085,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.109326708Z
+    created: 2018-11-27T11:50:59.221454816Z
     description: forecastle chart that runs on kubernetes
     digest: de3a73f5243aa43c1140558cc6207ecf6f46983106e84c5aea11b0a46baa7fea
     home: https://github.com/stakater/Forecastle
@@ -1100,7 +1100,7 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.105184435Z
+    created: 2018-11-27T11:50:59.218315269Z
     description: forecastle chart that runs on kubernetes
     digest: 3f773f1fb6ae212b873824d3fc7db6b28d1823144c35d975d00fb115cb0a5f5c
     home: https://github.com/stakater/Forecastle
@@ -1116,7 +1116,7 @@ entries:
     version: 0.0.1
   gitwebhookproxy:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.122087088Z
+    created: 2018-11-27T11:50:59.234921756Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 4f229021431cc92357ab5ba99a9c1d2837fa8f844e16f8c840a82b87c756ab53
     home: https://github.com/stakater/GitWebhookProxy
@@ -1131,7 +1131,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.55.tgz
     version: 0.2.55
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.121825578Z
+    created: 2018-11-27T11:50:59.234450523Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: fb5ea23009ec35a63132df18f85135efc9367029121e8ebc3b673ca30ff1507b
     home: https://github.com/stakater/GitWebhookProxy
@@ -1146,7 +1146,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.54.tgz
     version: 0.2.54
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.12156539Z
+    created: 2018-11-27T11:50:59.23396371Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 9eae422cac84fb1a51cd6ae0fa1d4c01822091d495a2c8c1faa83d2ac6714c3b
     home: https://github.com/stakater/GitWebhookProxy
@@ -1161,7 +1161,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.51.tgz
     version: 0.2.51
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.121299556Z
+    created: 2018-11-27T11:50:59.233551091Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 9b054d02e6f72f0776bfd4f465bf110e0de9bbdd2aabb252236db1bd8e1fc3fc
     home: https://github.com/stakater/GitWebhookProxy
@@ -1176,7 +1176,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.50.tgz
     version: 0.2.50
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.121002904Z
+    created: 2018-11-27T11:50:59.233260922Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 54f608b47265d0e41c8a2b0c9f45c66c8addd90a547580672055a508b8dd4f0b
     home: https://github.com/stakater/GitWebhookProxy
@@ -1191,7 +1191,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.49.tgz
     version: 0.2.49
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.120732424Z
+    created: 2018-11-27T11:50:59.232964441Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 6891245f150d6ce3194956d11453c9d7711777d001ff8eb2aab8251ff7579f53
     home: https://github.com/stakater/GitWebhookProxy
@@ -1206,7 +1206,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.48.tgz
     version: 0.2.48
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.120477241Z
+    created: 2018-11-27T11:50:59.232666034Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: f1d0ab5660ad2c66eb3a863fd088e2906a1c6c21a19f59145cf10b1d40ef8e32
     home: https://github.com/stakater/GitWebhookProxy
@@ -1221,7 +1221,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.47.tgz
     version: 0.2.47
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.120195478Z
+    created: 2018-11-27T11:50:59.232372236Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 99b1ef308bbd02e9ca19cf7b639213c2d366e7d3a2dc0efadccd1a380e12e495
     home: https://github.com/stakater/GitWebhookProxy
@@ -1236,7 +1236,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.46.tgz
     version: 0.2.46
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.119943404Z
+    created: 2018-11-27T11:50:59.232098803Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: ea6cdc92cd2a3a598440892a7264fc8a88faba12d5471a4dc8ad4303badf5ecf
     home: https://github.com/stakater/GitWebhookProxy
@@ -1251,7 +1251,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.45.tgz
     version: 0.2.45
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.11968194Z
+    created: 2018-11-27T11:50:59.231820124Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: f2e876ca7449578ee3a849e01ffa2ece3bca1ffe419ede40a4947c9c058c29de
     home: https://github.com/stakater/GitWebhookProxy
@@ -1266,7 +1266,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.44.tgz
     version: 0.2.44
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.119424172Z
+    created: 2018-11-27T11:50:59.231557815Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 894ae30b905616cc923899273d92fdb4cb125d4cf6ae519e7301a075e53f3773
     home: https://github.com/stakater/GitWebhookProxy
@@ -1281,7 +1281,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.43.tgz
     version: 0.2.43
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.119144201Z
+    created: 2018-11-27T11:50:59.231301076Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 2bfeb761f8b164b0a4c660454ec4bdc06acb682b3d3e6b7ee7f8d6c666953fa4
     home: https://github.com/stakater/GitWebhookProxy
@@ -1296,7 +1296,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.42.tgz
     version: 0.2.42
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.118868103Z
+    created: 2018-11-27T11:50:59.231042771Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 9e1600b53b1b8289f37dbc1db07252996f4ac69f7d9613bd9ccb29e41cfa2e95
     home: https://github.com/stakater/GitWebhookProxy
@@ -1311,7 +1311,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.41.tgz
     version: 0.2.41
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.118612801Z
+    created: 2018-11-27T11:50:59.230749268Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 1612337312b2c7c82dd1bf09f98bd5bf9f8b59c2bd98470f6761e3d7d84145c4
     home: https://github.com/stakater/GitWebhookProxy
@@ -1326,7 +1326,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.40.tgz
     version: 0.2.40
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.11835027Z
+    created: 2018-11-27T11:50:59.230489517Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 3bb2432936cf415b656b00c65d748be6243c81299187d9157e61881109b4e571
     home: https://github.com/stakater/GitWebhookProxy
@@ -1341,7 +1341,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.39.tgz
     version: 0.2.39
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.118070729Z
+    created: 2018-11-27T11:50:59.230227004Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: bcd4f779896ae66656dbf9ad51f91a26f2e1e2aa3b82b5f765d0d271b1e96e16
     home: https://github.com/stakater/GitWebhookProxy
@@ -1356,7 +1356,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.38.tgz
     version: 0.2.38
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.117804487Z
+    created: 2018-11-27T11:50:59.229968615Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 7c1e53829d444d8f8cb20e2d22331e1f83800c9230ab7da2d2e8294e17250e73
     home: https://github.com/stakater/GitWebhookProxy
@@ -1371,7 +1371,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.37.tgz
     version: 0.2.37
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.117529332Z
+    created: 2018-11-27T11:50:59.229689893Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 8f9b828d984dbde81175b4b51a1728b9afe201a33d3b03923c257d0491b1ae96
     home: https://github.com/stakater/GitWebhookProxy
@@ -1386,7 +1386,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.36.tgz
     version: 0.2.36
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.117253496Z
+    created: 2018-11-27T11:50:59.229443235Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: ae3f3d361d0e5f1daf45101deb80f0731446b8a4ba6b308e52426aff589aaa29
     home: https://github.com/stakater/GitWebhookProxy
@@ -1401,7 +1401,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.35.tgz
     version: 0.2.35
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.116996981Z
+    created: 2018-11-27T11:50:59.229173028Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 199e9026aba38ce8061711324804b4a9479c1e4ed02e2bd53ea81467ea7154b4
     home: https://github.com/stakater/GitWebhookProxy
@@ -1416,7 +1416,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.34.tgz
     version: 0.2.34
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.116738759Z
+    created: 2018-11-27T11:50:59.228885606Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: 39d7f1a6b903681cf697f22b34bc4338221fd17c5db2a93e6a4bbc0cc59fb3fb
     home: https://github.com/stakater/GitWebhookProxy
@@ -1431,7 +1431,7 @@ entries:
     - https://stakater.github.io/stakater-charts/gitwebhookproxy-0.2.32.tgz
     version: 0.2.32
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.116488257Z
+    created: 2018-11-27T11:50:59.228641159Z
     description: GitWebhookProxy chart that runs on kubernetes
     digest: d3d4ddded2fb4010147c65499923395fcfb388adcc9efb76aa04d81a213dfafa
     home: https://github.com/stakater/GitWebhookProxy
@@ -1447,7 +1447,7 @@ entries:
     version: 0.2.31
   grafana:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.130774573Z
+    created: 2018-11-27T11:50:59.24301301Z
     description: grafana chart that runs on kubernetes
     digest: a7acf86407008e3e1190ad52c478c516d687af9c4977f1b684d6cd3a7a9a63bf
     home: https://github.com/stakater-charts/grafana
@@ -1462,7 +1462,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.33.tgz
     version: 1.0.33
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.1304542Z
+    created: 2018-11-27T11:50:59.242672945Z
     description: grafana chart that runs on kubernetes
     digest: 925d12117b412448d2ce7c550c1ffa9c9351844c32b757f4068063af9bbb728a
     home: https://github.com/stakater-charts/grafana
@@ -1477,7 +1477,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.32.tgz
     version: 1.0.32
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.130109342Z
+    created: 2018-11-27T11:50:59.242335285Z
     description: grafana chart that runs on kubernetes
     digest: f773d2508e61e11c12ec9767cafbf72c2d625d9d4374320365527075a41ec058
     home: https://github.com/stakater/chart-grafana
@@ -1492,7 +1492,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.31.tgz
     version: 1.0.31
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.129783527Z
+    created: 2018-11-27T11:50:59.242007458Z
     description: grafana chart that runs on kubernetes
     digest: 5f47663adf00710350a16ab5be8bfae6c4e10d30de15240092b285dbfa9dc581
     home: https://github.com/stakater/chart-grafana
@@ -1507,7 +1507,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.30.tgz
     version: 1.0.30
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.129444772Z
+    created: 2018-11-27T11:50:59.241630808Z
     description: grafana chart that runs on kubernetes
     digest: 9a9ca5e15f089abfb82e2e3c9078419fa4e750fcd8120c9e8bbc8ae6d22a59c7
     home: https://github.com/stakater/chart-grafana
@@ -1522,7 +1522,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.29.tgz
     version: 1.0.29
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.129071053Z
+    created: 2018-11-27T11:50:59.241276966Z
     description: grafana chart that runs on kubernetes
     digest: 8d35f903d775d2773b7812e884fabbad2ccf0a50732ae16d98b65117d502f6bf
     home: https://github.com/stakater/chart-grafana
@@ -1537,7 +1537,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.28.tgz
     version: 1.0.28
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.128701322Z
+    created: 2018-11-27T11:50:59.240930484Z
     description: grafana chart that runs on kubernetes
     digest: cd3d7c43ba6db26b17c685403c36ac937e01b6f7fb5aac6d1453a7bc225b643f
     home: https://github.com/stakater/chart-grafana
@@ -1552,7 +1552,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.27.tgz
     version: 1.0.27
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.128369238Z
+    created: 2018-11-27T11:50:59.240577656Z
     description: grafana chart that runs on kubernetes
     digest: 68caa0e014fb92b3c3d1b3e24c5e63b2e8df96abdad1dd5564fe422a4e6bfec9
     home: https://github.com/stakater/chart-grafana
@@ -1567,7 +1567,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.26.tgz
     version: 1.0.26
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.128022056Z
+    created: 2018-11-27T11:50:59.240237996Z
     description: grafana chart that runs on kubernetes
     digest: edbbc5ea789c325a8cae004934074e7f54933977d1f33a712b1ad25cbbb69b3e
     home: https://github.com/stakater/chart-grafana
@@ -1582,7 +1582,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.25.tgz
     version: 1.0.25
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.127670071Z
+    created: 2018-11-27T11:50:59.239851416Z
     description: grafana chart that runs on kubernetes
     digest: 03ab5e7f7d9b60574f1a662f4b04ce4c8154550b8273e5ca8db6276caff044b1
     home: https://github.com/stakater/chart-grafana
@@ -1597,7 +1597,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.24.tgz
     version: 1.0.24
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.127335713Z
+    created: 2018-11-27T11:50:59.2395001Z
     description: grafana chart that runs on kubernetes
     digest: 98bfeea283aeddfc4ecb577786a648fe9570f74087ff78953938269a9d6706f4
     home: https://github.com/stakater/chart-grafana
@@ -1612,7 +1612,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.23.tgz
     version: 1.0.23
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.126978162Z
+    created: 2018-11-27T11:50:59.239154583Z
     description: grafana chart that runs on kubernetes
     digest: b208320d11f18c21feb8f84fc58b9a68443632d4e5ac4bb0188a1687266a33b0
     home: https://github.com/stakater/chart-grafana
@@ -1627,7 +1627,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.22.tgz
     version: 1.0.22
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.126651955Z
+    created: 2018-11-27T11:50:59.238781403Z
     description: grafana chart that runs on kubernetes
     digest: 335ca5c14a299ba71b8b6dd2feaa33cb8e21f9790c728c99313bc08adeaa06a0
     home: https://github.com/stakater/chart-grafana
@@ -1642,7 +1642,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.21.tgz
     version: 1.0.21
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.126351619Z
+    created: 2018-11-27T11:50:59.238476239Z
     description: grafana chart that runs on kubernetes
     digest: f064620ebdf73458117ed4fbf9fbc55de9df3d1782c6f7fad020080641b4d43c
     home: https://github.com/stakater/chart-grafana
@@ -1657,7 +1657,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.20.tgz
     version: 1.0.20
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.12598716Z
+    created: 2018-11-27T11:50:59.238163307Z
     description: grafana chart that runs on kubernetes
     digest: 6329b1e19e606b2b4b42860ed3095a0a63dd7e98f96a3b6bd7ac25613f4f5953
     home: https://github.com/stakater/chart-grafana
@@ -1672,7 +1672,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.19.tgz
     version: 1.0.19
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.125585069Z
+    created: 2018-11-27T11:50:59.237835377Z
     description: grafana chart that runs on kubernetes
     digest: 263a2feca502f16a205c08f92309be24990033ec3b802fca6a73361b834ce812
     home: https://github.com/stakater/chart-grafana
@@ -1687,7 +1687,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.18.tgz
     version: 1.0.18
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.12495189Z
+    created: 2018-11-27T11:50:59.237542237Z
     description: grafana chart that runs on kubernetes
     digest: 8e752eae6eb9b39a35ca7a9c325a4d145f0f1f783a8fa619df2d48ce9c30e01d
     home: https://github.com/stakater/chart-grafana
@@ -1702,7 +1702,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.17.tgz
     version: 1.0.17
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.124419121Z
+    created: 2018-11-27T11:50:59.237244122Z
     description: grafana chart that runs on kubernetes
     digest: 7e4f2afd560630e27bfb3ef26fc90f37d5089e12f473f061c69dca22eda6ad3a
     home: https://github.com/stakater/chart-grafana
@@ -1717,7 +1717,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.16.tgz
     version: 1.0.16
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.123859656Z
+    created: 2018-11-27T11:50:59.236931104Z
     description: grafana chart that runs on kubernetes
     digest: 4a58bca040f1d41cfe1279acab318792af863455c5615ed3ced7f81e5d002bdd
     home: https://github.com/stakater/chart-grafana
@@ -1732,7 +1732,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.123564058Z
+    created: 2018-11-27T11:50:59.236626202Z
     description: grafana chart that runs on kubernetes
     digest: d5ee48b5e43cb2ea0614ac7415457ea462f64dd9b11e14342ed4b6b64d3235bb
     home: https://github.com/stakater/chart-grafana
@@ -1747,7 +1747,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.12325448Z
+    created: 2018-11-27T11:50:59.23632318Z
     description: grafana chart that runs on kubernetes
     digest: 0cd531d49c716d859319c5d905259bb08222ccbeb894873c59d91d5117bda17d
     home: https://github.com/stakater/chart-grafana
@@ -1762,7 +1762,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.122967968Z
+    created: 2018-11-27T11:50:59.236030583Z
     description: grafana chart that runs on kubernetes
     digest: 562055095de6b09704341a0b7db6347ab19472b81dea5dce6c1fea094935ffb2
     home: https://github.com/stakater/chart-grafana
@@ -1777,7 +1777,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.122675164Z
+    created: 2018-11-27T11:50:59.235710961Z
     description: grafana chart that runs on kubernetes
     digest: c1fca672deafc4fe673528bfa8d79c6c76dcad812b3c64e6110ea50ef72d1946
     home: https://github.com/stakater/chart-grafana
@@ -1792,7 +1792,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.122387662Z
+    created: 2018-11-27T11:50:59.235407089Z
     description: grafana chart that runs on kubernetes
     digest: d092a87bb98aeb7cc89a0d2bafecf3e8884aa8a97152d64ab22c203238e2d7f3
     home: https://github.com/stakater/chart-grafana
@@ -1807,7 +1807,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.131333725Z
+    created: 2018-11-27T11:50:59.243575888Z
     description: grafana chart that runs on kubernetes
     digest: c3e7a43114e80bef7616109dee519d04d8bfdc882ebf2e7e864257d32e1793a7
     home: https://github.com/stakater/chart-grafana
@@ -1822,7 +1822,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.131037566Z
+    created: 2018-11-27T11:50:59.243294228Z
     description: grafana chart that runs on kubernetes
     digest: 900a0de9d3f7a65fd1abb3fa0d0c193efe24eb8763a79159615e038062a6ee25
     home: https://github.com/stakater/chart-grafana
@@ -1838,7 +1838,7 @@ entries:
     version: 1.0.8
   grafana-storage:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.137189405Z
+    created: 2018-11-27T11:50:59.24912661Z
     description: grafana-storage chart that runs on kubernetes
     digest: 2ba4e57e137f510e1d89fb6992498b45035f522caee71416ec40b1a301328cc0
     home: https://github.com/stakater-charts/grafana-storage
@@ -1853,7 +1853,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.33.tgz
     version: 1.0.33
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.136995732Z
+    created: 2018-11-27T11:50:59.248934685Z
     description: grafana-storage chart that runs on kubernetes
     digest: 68003fc38f1dc441d335930432e418996cc8cd8bba7105eb51d09ce55a3c9675
     home: https://github.com/stakater-charts/grafana-storage
@@ -1868,7 +1868,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.32.tgz
     version: 1.0.32
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.136792Z
+    created: 2018-11-27T11:50:59.248729618Z
     description: grafana-storage chart that runs on kubernetes
     digest: cf824ddaf80bbd26e4938b5819e555fba2cda6a8ec9da9b4aca299b7f9f93b72
     home: https://github.com/stakater/chart-grafana-storage
@@ -1883,7 +1883,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.31.tgz
     version: 1.0.31
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.136582997Z
+    created: 2018-11-27T11:50:59.248545693Z
     description: grafana-storage chart that runs on kubernetes
     digest: 2f3c881aa225e3b94ceb459c0823d422555f53ff8b94c582a9a1410bde4fa273
     home: https://github.com/stakater/chart-grafana-storage
@@ -1898,7 +1898,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.30.tgz
     version: 1.0.30
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.136382853Z
+    created: 2018-11-27T11:50:59.248356633Z
     description: grafana-storage chart that runs on kubernetes
     digest: 09b790906b36b4ee063c163e43409f0544c65051fea1c476f7b453876fcfad6b
     home: https://github.com/stakater/chart-grafana-storage
@@ -1913,7 +1913,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.29.tgz
     version: 1.0.29
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.136154386Z
+    created: 2018-11-27T11:50:59.248165619Z
     description: grafana-storage chart that runs on kubernetes
     digest: 7a6050b6b5acb300802e399a396dda641e5d74fed9febe560d23ea8b2edcf028
     home: https://github.com/stakater/chart-grafana-storage
@@ -1928,7 +1928,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.28.tgz
     version: 1.0.28
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.135927254Z
+    created: 2018-11-27T11:50:59.247977724Z
     description: grafana-storage chart that runs on kubernetes
     digest: 8c8cb4584879d576298829d714734a30dcef8b46f3c20c80591eb20225413ecc
     home: https://github.com/stakater/chart-grafana-storage
@@ -1943,7 +1943,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.27.tgz
     version: 1.0.27
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.13553543Z
+    created: 2018-11-27T11:50:59.247758773Z
     description: grafana-storage chart that runs on kubernetes
     digest: c519ede6703a0a5294f58b17edb2e8a818969a7fdf7f3e66b10aa905442ae355
     home: https://github.com/stakater/chart-grafana-storage
@@ -1958,7 +1958,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.26.tgz
     version: 1.0.26
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.135143806Z
+    created: 2018-11-27T11:50:59.247562847Z
     description: grafana-storage chart that runs on kubernetes
     digest: 9d84e64277f12aeb836f5056afbbb72ecbb98658a0ed6caa4cb83fe0343c4cdf
     home: https://github.com/stakater/chart-grafana-storage
@@ -1973,7 +1973,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.25.tgz
     version: 1.0.25
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.134781521Z
+    created: 2018-11-27T11:50:59.247378642Z
     description: grafana-storage chart that runs on kubernetes
     digest: b45482c6346c9ff96001f8d5a9cac8b54e45d6287be3aa6863aaafb505b78460
     home: https://github.com/stakater/chart-grafana-storage
@@ -1988,7 +1988,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.24.tgz
     version: 1.0.24
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.134176777Z
+    created: 2018-11-27T11:50:59.247193066Z
     description: grafana-storage chart that runs on kubernetes
     digest: 23dd35adfd1b5710fc2a0beb1ad2b4a8e0aa4181e534c874ee0c68489389fd48
     home: https://github.com/stakater/chart-grafana-storage
@@ -2003,7 +2003,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.23.tgz
     version: 1.0.23
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.1339876Z
+    created: 2018-11-27T11:50:59.247006825Z
     description: grafana-storage chart that runs on kubernetes
     digest: 518f96d10b2001a5d2cac389ec0052ec120f694cd8fb998eb1758a51d0709a7e
     home: https://github.com/stakater/chart-grafana-storage
@@ -2018,7 +2018,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.22.tgz
     version: 1.0.22
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.13379383Z
+    created: 2018-11-27T11:50:59.246801162Z
     description: grafana-storage chart that runs on kubernetes
     digest: 5cf1e56246d0d264b8a762c4364172ee4469d6264e786559fd0f22c5d2247722
     home: https://github.com/stakater/chart-grafana-storage
@@ -2033,7 +2033,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.21.tgz
     version: 1.0.21
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.133606975Z
+    created: 2018-11-27T11:50:59.246614897Z
     description: grafana-storage chart that runs on kubernetes
     digest: 6fb64552c6158493c876ba34d409ee526c325aa624b3cb47e5c645b3b5ffeca9
     home: https://github.com/stakater/chart-grafana-storage
@@ -2048,7 +2048,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.20.tgz
     version: 1.0.20
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.133409166Z
+    created: 2018-11-27T11:50:59.246427018Z
     description: grafana-storage chart that runs on kubernetes
     digest: ea44481d48fb638be1998b4fd09fddfae2433739de4787ec6f9ff5916d1b7ad1
     home: https://github.com/stakater/chart-grafana-storage
@@ -2063,7 +2063,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.19.tgz
     version: 1.0.19
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.133120194Z
+    created: 2018-11-27T11:50:59.246237584Z
     description: grafana-storage chart that runs on kubernetes
     digest: 4c05a97132a356afadef3b38c96c31fc7dc7860d50f133d35c1b6b84b4cb2ecd
     home: https://github.com/stakater/chart-grafana-storage
@@ -2078,7 +2078,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.18.tgz
     version: 1.0.18
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.132927033Z
+    created: 2018-11-27T11:50:59.246042361Z
     description: grafana-storage chart that runs on kubernetes
     digest: fdd0c998af4694579bbc2c9b27bcdd8d116acd8f8fde9d1084e0603d8ff7a903
     home: https://github.com/stakater/chart-grafana-storage
@@ -2093,7 +2093,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.17.tgz
     version: 1.0.17
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.132733889Z
+    created: 2018-11-27T11:50:59.24581454Z
     description: grafana-storage chart that runs on kubernetes
     digest: 1cafccba6b25f4d7e3db1bf89f7349ae4b5825971df1bdc87b53a024299770e5
     home: https://github.com/stakater/chart-grafana-storage
@@ -2108,7 +2108,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.16.tgz
     version: 1.0.16
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.132544942Z
+    created: 2018-11-27T11:50:59.245619364Z
     description: grafana-storage chart that runs on kubernetes
     digest: 8b573e5514fb3d59303a2a1d3a3c45a1187d80f4d308778f5c9645c80b2597aa
     home: https://github.com/stakater/chart-grafana-storage
@@ -2123,7 +2123,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.132340813Z
+    created: 2018-11-27T11:50:59.245381769Z
     description: grafana-storage chart that runs on kubernetes
     digest: 46d3cd5928aac671d7feb4e8c3371e645451f65224cac59ede7a1c497417b872
     home: https://github.com/stakater/chart-grafana-storage
@@ -2138,7 +2138,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.132130504Z
+    created: 2018-11-27T11:50:59.244917751Z
     description: grafana-storage chart that runs on kubernetes
     digest: b8199933db1f9e8dce12be3e1c81cd203ffacd6d256994bdffdf86b8ec131306
     home: https://github.com/stakater/chart-grafana-storage
@@ -2153,7 +2153,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.131936297Z
+    created: 2018-11-27T11:50:59.244544299Z
     description: grafana-storage chart that runs on kubernetes
     digest: b98d7879309793e87c0a0b48c65a4d255af1280cc6dfba2cd134f7b5c34e1b0b
     home: https://github.com/stakater/chart-grafana-storage
@@ -2168,7 +2168,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.13174286Z
+    created: 2018-11-27T11:50:59.244003006Z
     description: grafana-storage chart that runs on kubernetes
     digest: b49ba187d7b7484e1b9b8e1caf1d869036109c9327358345d79bee57371726d6
     home: https://github.com/stakater/chart-grafana-storage
@@ -2183,7 +2183,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.131551683Z
+    created: 2018-11-27T11:50:59.243779533Z
     description: grafana-storage chart that runs on kubernetes
     digest: b2ba85ed500d34e6ec000da4fc3f362dc79c01e717655dd7d2c30494c303d1c0
     home: https://github.com/stakater/chart-grafana-storage
@@ -2198,7 +2198,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.137587646Z
+    created: 2018-11-27T11:50:59.249508599Z
     description: grafana-storage chart that runs on kubernetes
     digest: 7769e007650f876d223ac90df222c03d21ec4da588f275107c2166846edb4937
     home: https://github.com/stakater/chart-grafana-storage
@@ -2213,7 +2213,7 @@ entries:
     - https://stakater.github.io/stakater-charts/grafana-storage-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.13739993Z
+    created: 2018-11-27T11:50:59.249322854Z
     description: grafana-storage chart that runs on kubernetes
     digest: df193be779c218cfab0d3f7970569cd460a6034d847aa5f1009512a1be376b41
     home: https://github.com/stakater/chart-grafana-storage
@@ -2229,7 +2229,7 @@ entries:
     version: 1.0.8
   hazelcast:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.137784436Z
+    created: 2018-11-27T11:50:59.249709405Z
     description: Helm Chart for hazelcast
     digest: cc0e678f804920635d32e156123eaf34947996760ca8460e409dfef15002170d
     home: https://github.com/stakater-charts/hazelcast
@@ -2245,7 +2245,7 @@ entries:
     version: 1.0.1
   ingressmonitorcontroller:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.146902004Z
+    created: 2018-11-27T11:50:59.258418475Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 4c8962117c770eb972b9c8e58ae38ae52fe53ae50eccffe22e5091b2105acbd8
     home: https://github.com/stakater/IngressMonitorController
@@ -2273,7 +2273,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.47.tgz
     version: 1.0.47
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.14650592Z
+    created: 2018-11-27T11:50:59.258040559Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: b14783284fd4ef409218e65f5526ad34f5851713bd4ea230a71ccb4843156543
     home: https://github.com/stakater/IngressMonitorController
@@ -2288,7 +2288,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.46.tgz
     version: 1.0.46
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.146180273Z
+    created: 2018-11-27T11:50:59.257776355Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: bf96da36e7e143c72a4ebd0d5337fe3523b543cafc7e897de07384a59985e058
     home: https://github.com/stakater/IngressMonitorController
@@ -2303,7 +2303,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.45.tgz
     version: 1.0.45
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.145698006Z
+    created: 2018-11-27T11:50:59.257523127Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 9f8474001c50decc73d83295b9db31019757c7de9c4608b521a90770a1b84ccf
     home: https://github.com/stakater/IngressMonitorController
@@ -2318,7 +2318,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.44.tgz
     version: 1.0.44
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.145257046Z
+    created: 2018-11-27T11:50:59.257286569Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 37c703b8d927c7b260679a3050d75c5afaa8a5607e05c734da9e4f83cf4fcbec
     home: https://github.com/stakater/IngressMonitorController
@@ -2333,7 +2333,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.39.tgz
     version: 1.0.39
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.144636835Z
+    created: 2018-11-27T11:50:59.257048482Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 35f11c232afede5dd541b0f3fc0dddcbb8ebe8ba5dbee02152edaad342bf9a32
     home: https://github.com/stakater/IngressMonitorController
@@ -2348,7 +2348,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.38.tgz
     version: 1.0.38
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.144401716Z
+    created: 2018-11-27T11:50:59.256789717Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: ca7ac4524157b34ace953c4b58480fd2fbca98628740894cc7bb4a6c8b2f3b61
     home: https://github.com/stakater/IngressMonitorController
@@ -2363,7 +2363,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.37.tgz
     version: 1.0.37
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.144145161Z
+    created: 2018-11-27T11:50:59.256555636Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 8317d644bc596cbde7130a05c18618784e49db4702fb2f3415a918688b698c92
     home: https://github.com/stakater/IngressMonitorController
@@ -2378,7 +2378,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.36.tgz
     version: 1.0.36
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.143906341Z
+    created: 2018-11-27T11:50:59.256316408Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 11f25b119283eaade720386bbf52f4f45614a255a623ab06db1d3e6e41608794
     home: https://github.com/stakater/IngressMonitorController
@@ -2393,7 +2393,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.35.tgz
     version: 1.0.35
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.14363676Z
+    created: 2018-11-27T11:50:59.25607839Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 03894d88ca387e0ebd52cf878b3e75995a238c573ff10bf014253a4a378f14a5
     home: https://github.com/stakater/IngressMonitorController
@@ -2408,7 +2408,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.34.tgz
     version: 1.0.34
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.143364388Z
+    created: 2018-11-27T11:50:59.255812542Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: d2efb737664e4270d757a555aad5e261265e02f7670c9d379f3ba7b9ee203085
     home: https://github.com/stakater/IngressMonitorController
@@ -2423,7 +2423,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.33.tgz
     version: 1.0.33
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.143099168Z
+    created: 2018-11-27T11:50:59.255572095Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 84c3a62715de5d45c9006fecb6a42da4b15dae14d987bca33bb1babf7d868045
     home: https://github.com/stakater/IngressMonitorController
@@ -2438,7 +2438,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.32.tgz
     version: 1.0.32
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.142829665Z
+    created: 2018-11-27T11:50:59.255321025Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: b53d7ff95844e6c66f431f19e832fefa60002ebee684af6f48debee2258fd869
     home: https://github.com/stakater/IngressMonitorController
@@ -2453,7 +2453,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.31.tgz
     version: 1.0.31
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.142568698Z
+    created: 2018-11-27T11:50:59.255067683Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 024f51ddcbba175413494c727fdf28dd42444c7a72049580ed983212911381fe
     home: https://github.com/stakater/IngressMonitorController
@@ -2468,7 +2468,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.30.tgz
     version: 1.0.30
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.142330454Z
+    created: 2018-11-27T11:50:59.254767698Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: d0129ff341ebb8fb2eff95218d301706a097ab3cc2c715b92e439469962f1f12
     home: https://github.com/stakater/IngressMonitorController
@@ -2483,7 +2483,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.29.tgz
     version: 1.0.29
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.142063645Z
+    created: 2018-11-27T11:50:59.254291777Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 83f255cc702690e818cfbd0553d23a133f1f0d0daa52424af8e101acc6ab73c4
     home: https://github.com/stakater/IngressMonitorController
@@ -2498,7 +2498,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.28.tgz
     version: 1.0.28
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.141821896Z
+    created: 2018-11-27T11:50:59.253872502Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 57443b6b286f2c948ab54ffa82706f763d128ebbe97c1f9afd007f1cbe6c5f99
     home: https://github.com/stakater/IngressMonitorController
@@ -2513,7 +2513,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.27.tgz
     version: 1.0.27
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.141569956Z
+    created: 2018-11-27T11:50:59.253354857Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 316a919cf1bdeb60433f1100de9834ab6f90fab361cddfd4dbee54cee18b8472
     home: https://github.com/stakater/IngressMonitorController
@@ -2528,7 +2528,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.26.tgz
     version: 1.0.26
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.141323921Z
+    created: 2018-11-27T11:50:59.253104034Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: fd70a6746067111a1a8bea421f3d4374bc5ec4eb0fe4b58f7386ee34cc424ef8
     home: https://github.com/stakater/IngressMonitorController
@@ -2543,7 +2543,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.25.tgz
     version: 1.0.25
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.141057028Z
+    created: 2018-11-27T11:50:59.252848211Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 2ad7ceb7aa1bca1c67068ef2ede0b3e0959d8d87a961acc320fc1d4009cccb08
     home: https://github.com/stakater/IngressMonitorController
@@ -2558,7 +2558,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.24.tgz
     version: 1.0.24
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.140770018Z
+    created: 2018-11-27T11:50:59.25260072Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 14462989d0cdce43b6df4b7a0162abdf6922ad9a4e4213c5b1576a08f794dd10
     home: https://github.com/stakater/IngressMonitorController
@@ -2573,7 +2573,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.23.tgz
     version: 1.0.23
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.140490325Z
+    created: 2018-11-27T11:50:59.252370512Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: e0167bd9838fbe9666ccffac5c2ecc6cd11c9836660c024a6cd5a3dab6890506
     home: https://github.com/stakater/IngressMonitorController
@@ -2588,7 +2588,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.22.tgz
     version: 1.0.22
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.140227924Z
+    created: 2018-11-27T11:50:59.252138363Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 42dcea714a3bd1c5ae963f03f7833a1cb99d543f9388a13498bc9276e743246d
     home: https://github.com/stakater/IngressMonitorController
@@ -2603,7 +2603,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.21.tgz
     version: 1.0.21
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.139979762Z
+    created: 2018-11-27T11:50:59.251883367Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 924670bb598d2740821c6cc1049274e95c3e8a94f9e2a46846598601c14b174b
     home: https://github.com/stakater/IngressMonitorController
@@ -2618,7 +2618,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.20.tgz
     version: 1.0.20
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.139731616Z
+    created: 2018-11-27T11:50:59.251641856Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: e0c5387efcb8ad503761d5139322440fe400c22cca75b5ea0688a141c441adb8
     home: https://github.com/stakater/IngressMonitorController
@@ -2633,7 +2633,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.19.tgz
     version: 1.0.19
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.139482322Z
+    created: 2018-11-27T11:50:59.251409116Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: b59ebe2550324e26ff5fa7845e0ceb354d060f5b51b0e0ca9375ce59e1c740f7
     home: https://github.com/stakater/IngressMonitorController
@@ -2648,7 +2648,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.18.tgz
     version: 1.0.18
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.139225664Z
+    created: 2018-11-27T11:50:59.251179367Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: dab4e319653c33a1bf63714863012e762ee4e213ab60325aa7693abad92bf4e6
     home: https://github.com/stakater/IngressMonitorController
@@ -2663,7 +2663,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.17.tgz
     version: 1.0.17
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.138989597Z
+    created: 2018-11-27T11:50:59.250942329Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: ef92fff8300a09e8131d07c134bdae079e0ecae5d39f70670c51679fe5a3265c
     home: https://github.com/stakater/IngressMonitorController
@@ -2678,7 +2678,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.16.tgz
     version: 1.0.16
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.138742868Z
+    created: 2018-11-27T11:50:59.250681906Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 5b78aa3dd56720910df8f1870a7fd3ec1ed296b92d496d690ddb9275dda73bb1
     home: https://github.com/stakater/IngressMonitorController
@@ -2693,7 +2693,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.138508401Z
+    created: 2018-11-27T11:50:59.250442775Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 7f6523058c9701118d314f5a5d596557664170e49798c47e1fe42239db543f70
     home: https://github.com/stakater/IngressMonitorController
@@ -2708,7 +2708,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.138251939Z
+    created: 2018-11-27T11:50:59.250208608Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: b5a116aa3b607d2ba28b1a08218273a32dc05504d928b153ba8cd165e0daf899
     home: https://github.com/stakater/IngressMonitorController
@@ -2723,7 +2723,7 @@ entries:
     - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.138019546Z
+    created: 2018-11-27T11:50:59.249979445Z
     description: IngressMonitorController chart that runs on kubernetes
     digest: 7158169661e8a608d4ec95fea433e425b6efc0dc116f362c4edf87b3beb20443
     home: https://github.com/stakater/IngressMonitorController
@@ -2739,7 +2739,7 @@ entries:
     version: 1.0.12
   internal-ingress:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.147187214Z
+    created: 2018-11-27T11:50:59.258687798Z
     description: Internal Ingress Controller chart that runs on kubernetes
     digest: ddee3e747bf74dcf7c66e7724c0b38d16a2fadf3b7d624cda2642f1f5a105a18
     home: https://github.com/stakater-charts/ingress-controllers
@@ -2755,7 +2755,7 @@ entries:
     version: 1.0.8
   jamadar:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.14792326Z
+    created: 2018-11-27T11:50:59.259426391Z
     description: Jamadar chart that runs on kubernetes
     digest: d1e06522ff74d402a4e28a085738278b86838c0817484184ac8f2e7a47dd7fea
     home: https://github.com/stakater/Jamadar
@@ -2770,7 +2770,7 @@ entries:
     - https://stakater.github.io/stakater-charts/jamadar-0.0.12.tgz
     version: 0.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.147689837Z
+    created: 2018-11-27T11:50:59.259191072Z
     description: Jamadar chart that runs on kubernetes
     digest: 2f5b587bb27ce8a1ac044536aba998fc832c175d8595793bd1f3138caf9870df
     home: https://github.com/stakater/Jamadar
@@ -2785,7 +2785,7 @@ entries:
     - https://stakater.github.io/stakater-charts/jamadar-0.0.11.tgz
     version: 0.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.147444262Z
+    created: 2018-11-27T11:50:59.258939282Z
     description: Jamadar chart that runs on kubernetes
     digest: 28137a3bf4d021a9a5fd6f919001527594d919f5d23e5cf65b6ebcdfadbdfb30
     home: https://github.com/stakater/Jamadar
@@ -2800,7 +2800,7 @@ entries:
     - https://stakater.github.io/stakater-charts/jamadar-0.0.10.tgz
     version: 0.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.148618022Z
+    created: 2018-11-27T11:50:59.260132554Z
     description: Jamadar chart that runs on kubernetes
     digest: aa9f025908349f9f1ee27286c21dd5b848b658b9f1b55fb506065fb1f689e0c3
     home: https://github.com/stakater/Jamadar
@@ -2815,7 +2815,7 @@ entries:
     - https://stakater.github.io/stakater-charts/jamadar-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.148392766Z
+    created: 2018-11-27T11:50:59.259886337Z
     description: Jamadar chart that runs on kubernetes
     digest: 72c7898e569978069f377fecd839e9a1078f2411da46c7735f70ed3e9b83ea6b
     home: https://github.com/stakater/Jamadar
@@ -2830,7 +2830,7 @@ entries:
     - https://stakater.github.io/stakater-charts/jamadar-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.148147775Z
+    created: 2018-11-27T11:50:59.259653019Z
     description: Jamadar chart that runs on kubernetes
     digest: f56914f08c950f6f1e0cd906db614de2e2468a21f148069d39697d7aef360b30
     home: https://github.com/stakater/Jamadar
@@ -2846,7 +2846,7 @@ entries:
     version: 0.0.6
   jenkins:
   - appVersion: 2.121.3
-    created: 2018-11-27T11:09:02.150949284Z
+    created: 2018-11-27T11:50:59.262440571Z
     description: Open source continuous integration server. It supports multiple SCM
       tools including CVS, Subversion and Git. It can execute Apache Ant and Apache
       Maven-based projects as well as arbitrary scripts.
@@ -2866,7 +2866,7 @@ entries:
     - https://stakater.github.io/stakater-charts/jenkins-0.21.0.tgz
     version: 0.21.0
   - appVersion: 2.121.3
-    created: 2018-11-27T11:09:02.149545488Z
+    created: 2018-11-27T11:50:59.261051615Z
     description: Open source continuous integration server. It supports multiple SCM
       tools including CVS, Subversion and Git. It can execute Apache Ant and Apache
       Maven-based projects as well as arbitrary scripts.
@@ -2887,7 +2887,7 @@ entries:
     version: 0.20.0
   keycloak:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.151572946Z
+    created: 2018-11-27T11:50:59.263058563Z
     description: keycloak chart that runs on kubernetes
     digest: 4c0d31cbe0d6095ee94f7dd3c0f7b2447a176001e89ae5930adfbce632c9f05c
     home: https://github.com/stakater-charts/keycloak
@@ -2902,7 +2902,7 @@ entries:
     - https://stakater.github.io/stakater-charts/keycloak-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.151249825Z
+    created: 2018-11-27T11:50:59.262746866Z
     description: keycloak chart that runs on kubernetes
     digest: 01c41ea13cea3c6fff00f8166d1b68d7f0e9c46da1d6eeaae0051bb61d8e8654
     home: https://github.com/stakater-charts/keycloak
@@ -2918,7 +2918,7 @@ entries:
     version: 1.0.10
   keycloak-db:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.152071174Z
+    created: 2018-11-27T11:50:59.263509937Z
     description: keycloak-db chart that runs on kubernetes
     digest: a9d41234d6025adccde70b34835e604cbba8faed08f16b511b8592ef500b5881
     home: https://github.com/stakater-charts/keycloak
@@ -2933,7 +2933,7 @@ entries:
     - https://stakater.github.io/stakater-charts/keycloak-db-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.151835958Z
+    created: 2018-11-27T11:50:59.26328705Z
     description: keycloak-db chart that runs on kubernetes
     digest: 5bc480a69e29f09365219a5d4602cf8817d84544ab9ceece0c3bff8013daca02
     home: https://github.com/stakater-charts/keycloak
@@ -2949,7 +2949,7 @@ entries:
     version: 1.0.10
   keycloak-db-storage:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.152571282Z
+    created: 2018-11-27T11:50:59.263941875Z
     description: keycloak-db-storage chart that runs on kubernetes
     digest: 04c5ec5afc4772e41a73a43bc646f9f618647987c24524774c683fecc6ebbda8
     home: https://github.com/stakater-charts/keycloak
@@ -2964,7 +2964,7 @@ entries:
     - https://stakater.github.io/stakater-charts/keycloak-db-storage-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.152313556Z
+    created: 2018-11-27T11:50:59.263716764Z
     description: keycloak-db-storage chart that runs on kubernetes
     digest: e58d8f81e7850dc91bd727890ab794370a825d5f127788d045b7c11b6f14bd29
     home: https://github.com/stakater-charts/keycloak
@@ -2980,7 +2980,22 @@ entries:
     version: 1.0.10
   konfigurator:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.15448783Z
+    created: 2018-11-27T11:50:59.264401958Z
+    description: Konfigurator chart that runs on kubernetes
+    digest: 9582c40f7fc6e4106db8f5ee3ef88a28b617859a3fb5f9a87213945c894de805
+    home: https://github.com/stakater/Konfigurator
+    keywords:
+    - Konfigurator
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    name: konfigurator
+    urls:
+    - https://stakater.github.io/stakater-charts/konfigurator-0.0.10.tgz
+    version: 0.0.10
+  - apiVersion: v1
+    created: 2018-11-27T11:50:59.266825741Z
     description: Konfigurator chart that runs on kubernetes
     digest: d981bb249ef3e7909064c003b7626919851d34553105b3855dd58547a607d370
     home: https://github.com/stakater/Konfigurator
@@ -2995,7 +3010,7 @@ entries:
     - https://stakater.github.io/stakater-charts/konfigurator-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.154237569Z
+    created: 2018-11-27T11:50:59.266604443Z
     description: Konfigurator chart that runs on kubernetes
     digest: fda7c1f542c8e3cb415150522467022bd1a76f5ba008e8006d22c256546277b9
     home: https://github.com/stakater/Konfigurator
@@ -3010,7 +3025,7 @@ entries:
     - https://stakater.github.io/stakater-charts/konfigurator-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.154016988Z
+    created: 2018-11-27T11:50:59.266337567Z
     description: Konfigurator chart that runs on kubernetes
     digest: 544d96e39ad76e8accc3c6b0b44d3639a26f8e0770dcbe5656f16bb700c02290
     home: https://github.com/stakater/Konfigurator
@@ -3025,7 +3040,7 @@ entries:
     - https://stakater.github.io/stakater-charts/konfigurator-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.153772225Z
+    created: 2018-11-27T11:50:59.265974784Z
     description: Konfigurator chart that runs on kubernetes
     digest: fb63cf93c033e44fd5ff83d2237acd397e643a4724cbab7c0610a5c7950976f2
     home: https://github.com/stakater/Konfigurator
@@ -3040,7 +3055,7 @@ entries:
     - https://stakater.github.io/stakater-charts/konfigurator-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.153553771Z
+    created: 2018-11-27T11:50:59.265573917Z
     description: Konfigurator chart that runs on kubernetes
     digest: 8b5852037c5463ab102605bb70071d434ab1ac87e012d911c870923230a25a14
     home: https://github.com/stakater/Konfigurator
@@ -3055,7 +3070,7 @@ entries:
     - https://stakater.github.io/stakater-charts/konfigurator-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.153325089Z
+    created: 2018-11-27T11:50:59.265206916Z
     description: Konfigurator chart that runs on kubernetes
     digest: 8cf85e90a3c4a9db344774fea8282bd7834b0645d8a7ef76f6ad751126463f55
     home: https://github.com/stakater/Konfigurator
@@ -3070,7 +3085,7 @@ entries:
     - https://stakater.github.io/stakater-charts/konfigurator-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.153070766Z
+    created: 2018-11-27T11:50:59.264624933Z
     description: Konfigurator chart that runs on kubernetes
     digest: ffde6cf3ffc5755d90b1dcb7517e192d81cef1b61c0d54501590813e510f3569
     home: https://github.com/stakater/Konfigurator
@@ -3085,7 +3100,7 @@ entries:
     - https://stakater.github.io/stakater-charts/konfigurator-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.152819706Z
+    created: 2018-11-27T11:50:59.264163429Z
     description: Konfigurator chart that runs on kubernetes
     digest: fc295b2ddb76e2522b8b5763144c6368e37ade88a2e936f55a144103d31cbd44
     home: https://github.com/stakater/Konfigurator
@@ -3101,7 +3116,7 @@ entries:
     version: 0.0.1
   kube-state-metrics:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.155332568Z
+    created: 2018-11-27T11:50:59.267668666Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: a8b709fdb6bdadb7c03a58b7534b8f68cea77b19e42f0f8e6d7d8a8491b0de89
     home: https://github.com/stakater-charts/kube-state-metrics
@@ -3116,7 +3131,7 @@ entries:
     - https://stakater.github.io/stakater-charts/kube-state-metrics-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.15503422Z
+    created: 2018-11-27T11:50:59.267377878Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 9f56f4eaf24a311ff640d252c530521c02780199224b1794ee0965095b5f3a59
     home: https://github.com/stakater-charts/kube-state-metrics
@@ -3131,7 +3146,7 @@ entries:
     - https://stakater.github.io/stakater-charts/kube-state-metrics-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.154767484Z
+    created: 2018-11-27T11:50:59.267113851Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: a40421c3724613cf61026f7e3b7b90108501fc82abe7c49e00c0be55a3cc5411
     home: https://github.com/stakater/chart-kube-state-metrics
@@ -3146,7 +3161,7 @@ entries:
     - https://stakater.github.io/stakater-charts/kube-state-metrics-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.157313917Z
+    created: 2018-11-27T11:50:59.269030976Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 915f1990c8a860717ac05a13a8ac165f4b624e0466b1dd6ff5272f869acb50b8
     home: https://github.com/stakater/chart-kube-state-metrics
@@ -3161,7 +3176,7 @@ entries:
     - https://stakater.github.io/stakater-charts/kube-state-metrics-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.156845276Z
+    created: 2018-11-27T11:50:59.268748988Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 182804b890e8dc25b6e459f9e42eca479b169a28847b3615cec0be2b716c5e7e
     home: https://github.com/stakater/chart-kube-state-metrics
@@ -3176,7 +3191,7 @@ entries:
     - https://stakater.github.io/stakater-charts/kube-state-metrics-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.156137944Z
+    created: 2018-11-27T11:50:59.268490604Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 5e75c9a9c18e1e73898a1146deff12e8f2114babe39baa418c32ac58dc71108c
     home: https://github.com/stakater/chart-kube-state-metrics
@@ -3191,7 +3206,7 @@ entries:
     - https://stakater.github.io/stakater-charts/kube-state-metrics-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.155866707Z
+    created: 2018-11-27T11:50:59.268233128Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: c524dcf58e2e89a18f8b43dea3e3803452c4e42b936c42c8b323f7b29a17084c
     home: https://github.com/stakater/chart-kube-state-metrics
@@ -3206,7 +3221,7 @@ entries:
     - https://stakater.github.io/stakater-charts/kube-state-metrics-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.155600313Z
+    created: 2018-11-27T11:50:59.267973268Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 51ccff46945b3678c11f01a87d88e12ffa258cbbda3cef700fb2c3115a0509bb
     home: https://github.com/stakater/chart-kube-state-metrics
@@ -3222,7 +3237,7 @@ entries:
     version: 1.0.5
   kubernetes-dashboard:
   - appVersion: 1.10.0
-    created: 2018-11-27T11:09:02.158039132Z
+    created: 2018-11-27T11:50:59.269494332Z
     description: General-purpose web UI for Kubernetes clusters
     digest: 032032b804d99c0b44c1b1d54519d383420ccdf14a82f1ebaeeff70129d24d54
     home: https://github.com/kubernetes/dashboard
@@ -3241,7 +3256,7 @@ entries:
     version: 0.9.0
   logrotate:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.158997526Z
+    created: 2018-11-27T11:50:59.270383791Z
     description: logrotate chart that runs on kubernetes
     digest: aed1c0f154e9090d8e6941230a372e9a60bdfe4fc79e9d80fd09b0a6027cff40
     home: https://github.com/stakater-charts/logrotate
@@ -3256,7 +3271,7 @@ entries:
     - https://stakater.github.io/stakater-charts/logrotate-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.158779013Z
+    created: 2018-11-27T11:50:59.270153499Z
     description: logrotate chart that runs on kubernetes
     digest: 59d83348995dbc8768d77458eb2d9bc19c1d6cdc0e5c796cbedf139f3612d2a0
     home: https://github.com/stakater-charts/logrotate
@@ -3271,7 +3286,7 @@ entries:
     - https://stakater.github.io/stakater-charts/logrotate-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.158557215Z
+    created: 2018-11-27T11:50:59.269940059Z
     description: logrotate chart that runs on kubernetes
     digest: f625e3678111c51a73d5ad9f9022fa6b1519b4024e7c7aee5d3a139ba14bb6c5
     home: https://github.com/stakater-charts/logrotate
@@ -3286,7 +3301,7 @@ entries:
     - https://stakater.github.io/stakater-charts/logrotate-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.158314664Z
+    created: 2018-11-27T11:50:59.269709355Z
     description: logrotate chart that runs on kubernetes
     digest: 32b1118ea54c6bef187e427ba26d086c7be5d937b485055577990f5a8ab6f650
     home: https://github.com/stakater-charts/logrotate
@@ -3302,7 +3317,7 @@ entries:
     version: 1.0.6
   mongodb:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.159191864Z
+    created: 2018-11-27T11:50:59.270575944Z
     description: Helm Chart for MongoDB to run kubernetes
     digest: 068d8f78807706e800b3aad6b89b6fe925f9660da614e489ee4491c4f0804290
     home: https://github.com/stakater-charts/mongodb
@@ -3318,7 +3333,7 @@ entries:
     version: 1.0.1
   node-exporter:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.159463423Z
+    created: 2018-11-27T11:50:59.270819085Z
     description: node-exporter chart that runs on kubernetes
     digest: 8d94145c4007ad1692bdd2069631216f7c27960b8afb5a8c704b7de2a66f1b7c
     home: https://github.com/stakater-charts/node-exporter
@@ -3333,7 +3348,7 @@ entries:
     - https://stakater.github.io/stakater-charts/node-exporter-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.161118609Z
+    created: 2018-11-27T11:50:59.272526611Z
     description: node-exporter chart that runs on kubernetes
     digest: 606b9fd8764e07335b032d1b659a87c7e63c2a9129ff6f97357d9aa538f7677f
     home: https://github.com/stakater-charts/node-exporter
@@ -3348,7 +3363,7 @@ entries:
     - https://stakater.github.io/stakater-charts/node-exporter-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.160869633Z
+    created: 2018-11-27T11:50:59.272269025Z
     description: node-exporter chart that runs on kubernetes
     digest: 14853212bfa0410ead760e71734e1be7e4e14b41ae490dc6d8e667cef08fa270
     home: https://github.com/stakater/chart-node-exporter
@@ -3363,7 +3378,7 @@ entries:
     - https://stakater.github.io/stakater-charts/node-exporter-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.160636086Z
+    created: 2018-11-27T11:50:59.272035813Z
     description: node-exporter chart that runs on kubernetes
     digest: 0bb39d2b90e53478fcf19300ac252eebaf53d8b4c68fbe8e9a82fb8229093817
     home: https://github.com/stakater/chart-node-exporter
@@ -3378,7 +3393,7 @@ entries:
     - https://stakater.github.io/stakater-charts/node-exporter-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.160402016Z
+    created: 2018-11-27T11:50:59.271769367Z
     description: node-exporter chart that runs on kubernetes
     digest: 0c71a0f7201cf79a50a6aeeb4b43221262012287f70111d3af198247a3c75fce
     home: https://github.com/stakater/chart-node-exporter
@@ -3393,7 +3408,7 @@ entries:
     - https://stakater.github.io/stakater-charts/node-exporter-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.160156915Z
+    created: 2018-11-27T11:50:59.271539929Z
     description: node-exporter chart that runs on kubernetes
     digest: 2872b6246bf8602c075496006375ca1ec08e19cce70792f514b8c8ca3806c669
     home: https://github.com/stakater/chart-node-exporter
@@ -3408,7 +3423,7 @@ entries:
     - https://stakater.github.io/stakater-charts/node-exporter-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.159933426Z
+    created: 2018-11-27T11:50:59.271296876Z
     description: node-exporter chart that runs on kubernetes
     digest: 6a4336ea294af02acc2feaf10497a1d31d81dec9d0e8fd8f86a6cfec05c762cb
     home: https://github.com/stakater/chart-node-exporter
@@ -3423,7 +3438,7 @@ entries:
     - https://stakater.github.io/stakater-charts/node-exporter-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.15970034Z
+    created: 2018-11-27T11:50:59.271068736Z
     description: node-exporter chart that runs on kubernetes
     digest: 40ad56b451210228da26d04c9c54980304ef07607a3885bf8df7e6aba74350ac
     home: https://github.com/stakater/chart-node-exporter
@@ -3439,7 +3454,7 @@ entries:
     version: 1.0.3
   openshift-kube-state-metrics:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.162945181Z
+    created: 2018-11-27T11:50:59.274245457Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 7fc0988e8c771d8984394a0e140df678b5c4197f62bac941256c4f3655225ddc
     home: https://github.com/stakater/openshift-kube-state-metrics
@@ -3454,7 +3469,7 @@ entries:
     - https://stakater.github.io/stakater-charts/openshift-kube-state-metrics-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.162655629Z
+    created: 2018-11-27T11:50:59.273967802Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 92663c02f992052ed699298e899edb75e25bddc9cc97596ab587710ddc601141
     home: https://github.com/stakater/openshift-kube-state-metrics
@@ -3469,7 +3484,7 @@ entries:
     - https://stakater.github.io/stakater-charts/openshift-kube-state-metrics-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.162341007Z
+    created: 2018-11-27T11:50:59.273669456Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 06c8ef3f889243c4caf25eae0bf6d304e6896adf9da0781a313586de34656c30
     home: https://github.com/stakater/openshift-kube-state-metrics
@@ -3484,7 +3499,7 @@ entries:
     - https://stakater.github.io/stakater-charts/openshift-kube-state-metrics-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.162035521Z
+    created: 2018-11-27T11:50:59.273385055Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 761c97d3d999008aa08443ed9ae41859909991db2ba5dec3479d96a6896b10d0
     home: https://github.com/stakater/openshift-kube-state-metrics
@@ -3499,7 +3514,7 @@ entries:
     - https://stakater.github.io/stakater-charts/openshift-kube-state-metrics-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.161715342Z
+    created: 2018-11-27T11:50:59.273100371Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: bb7bd452ff1e700559ba1c6a176839fbb4467da04d0877408fdf6231d1a591f9
     home: https://github.com/stakater/openshift-kube-state-metrics
@@ -3514,7 +3529,7 @@ entries:
     - https://stakater.github.io/stakater-charts/openshift-kube-state-metrics-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.161428357Z
+    created: 2018-11-27T11:50:59.272805236Z
     description: kube-state-metrics chart that runs on kubernetes
     digest: 96b27a11987a4b5b12fb8180bf61d5ac8b1767ed0043646b65d6709b03db0ecc
     home: https://github.com/stakater/openshift-kube-state-metrics
@@ -3530,7 +3545,7 @@ entries:
     version: 0.0.1
   prometheus:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.171266288Z
+    created: 2018-11-27T11:50:59.282099707Z
     description: prometheus chart that runs on kubernetes
     digest: 99d2ff0625afa8b5b7765248b539452eefee8c71c2793372f3eb6e3a7db1e0d9
     home: https://github.com/stakater-charts/prometheus
@@ -3545,7 +3560,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.23.tgz
     version: 1.0.23
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.170770122Z
+    created: 2018-11-27T11:50:59.281608313Z
     description: prometheus chart that runs on kubernetes
     digest: d01dd9f8be62585f0b6f2fd70939c6340ee7174a6921f91fdc461a0954a77945
     home: https://github.com/stakater/chart-prometheus
@@ -3560,7 +3575,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.22.tgz
     version: 1.0.22
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.170292684Z
+    created: 2018-11-27T11:50:59.281151398Z
     description: prometheus chart that runs on kubernetes
     digest: cbd8457e3bce7a1e3e72016baf85e8ba13f682b2c7e75f62f0a27c3c47ed392b
     home: https://github.com/stakater/chart-prometheus
@@ -3575,7 +3590,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.21.tgz
     version: 1.0.21
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.16980386Z
+    created: 2018-11-27T11:50:59.280660295Z
     description: prometheus chart that runs on kubernetes
     digest: ea1259c21b6df7cfb74e3f3cd81e9ea466a03340b799b0f649334db0672488a2
     home: https://github.com/stakater/chart-prometheus
@@ -3590,7 +3605,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.20.tgz
     version: 1.0.20
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.168804799Z
+    created: 2018-11-27T11:50:59.279693724Z
     description: prometheus chart that runs on kubernetes
     digest: 493df6de50b6dfff9968806e8551171351edd9dab40d1ee558a47c87a6749f36
     home: https://github.com/stakater/chart-prometheus
@@ -3605,7 +3620,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.19.tgz
     version: 1.0.19
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.16797998Z
+    created: 2018-11-27T11:50:59.279224915Z
     description: prometheus chart that runs on kubernetes
     digest: ae7bb1db65127cb966897b33839e51d3531bc3a28a595bde5a3bce6dcf2a191c
     home: https://github.com/stakater/chart-prometheus
@@ -3620,7 +3635,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.18.tgz
     version: 1.0.18
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.167240557Z
+    created: 2018-11-27T11:50:59.278748837Z
     description: prometheus chart that runs on kubernetes
     digest: 509e630641f30b7486fa93533f411f6cc01a3012b6f57e6a5916bfc0eb149139
     home: https://github.com/stakater/chart-prometheus
@@ -3635,7 +3650,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.17.tgz
     version: 1.0.17
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.16659672Z
+    created: 2018-11-27T11:50:59.278275954Z
     description: prometheus chart that runs on kubernetes
     digest: debdad63499e6adc98ab2a51ef353b68215d8bee09972e34cba27626ffd4ba59
     home: https://github.com/stakater/chart-prometheus
@@ -3650,7 +3665,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.16.tgz
     version: 1.0.16
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.166087954Z
+    created: 2018-11-27T11:50:59.277785424Z
     description: prometheus chart that runs on kubernetes
     digest: 4ea06c68e623ac50e4d108630a8d954a08067940277af7420191adc2c0a56dba
     home: https://github.com/stakater/chart-prometheus
@@ -3665,7 +3680,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.15.tgz
     version: 1.0.15
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.165590862Z
+    created: 2018-11-27T11:50:59.277295508Z
     description: prometheus chart that runs on kubernetes
     digest: f48a4038cbbf69c46203f9429198f9c2853d2b982414d43ec9a33d3a57fb2ec9
     home: https://github.com/stakater/chart-prometheus
@@ -3680,7 +3695,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.14.tgz
     version: 1.0.14
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.164933723Z
+    created: 2018-11-27T11:50:59.276801453Z
     description: prometheus chart that runs on kubernetes
     digest: d52ba79d08b4d185261886463aa60356337a9886338826934dbea29b208f082c
     home: https://github.com/stakater/chart-prometheus
@@ -3695,7 +3710,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.13.tgz
     version: 1.0.13
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.164442911Z
+    created: 2018-11-27T11:50:59.276131039Z
     description: prometheus chart that runs on kubernetes
     digest: b15ae464c07212442fe4f87d29116e37b23c1b0ea45af49f2970c6af4db95620
     home: https://github.com/stakater/chart-prometheus
@@ -3710,7 +3725,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.12.tgz
     version: 1.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.163944804Z
+    created: 2018-11-27T11:50:59.275185802Z
     description: prometheus chart that runs on kubernetes
     digest: e7679a63282b1530c4a902f5ad71e9935e3f7b3360983edbf1312d31721c1e1c
     home: https://github.com/stakater/chart-prometheus
@@ -3725,7 +3740,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.11.tgz
     version: 1.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.163446435Z
+    created: 2018-11-27T11:50:59.274707213Z
     description: prometheus chart that runs on kubernetes
     digest: b254b54ef1d71c01c3a4dcba22770ba8993b38d482a5780522b32ee90689afd3
     home: https://github.com/stakater/chart-prometheus
@@ -3740,7 +3755,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.10.tgz
     version: 1.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.174618897Z
+    created: 2018-11-27T11:50:59.285388547Z
     description: prometheus chart that runs on kubernetes
     digest: e7c5c06df4dd1ea1edcb28a0af75d112d54b8215ff0e7f97b7e44ba5aedebb92
     home: https://github.com/stakater/chart-prometheus
@@ -3755,7 +3770,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.9.tgz
     version: 1.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.174143107Z
+    created: 2018-11-27T11:50:59.284924748Z
     description: prometheus chart that runs on kubernetes
     digest: d31d54b947f3bb498fc389f5ddb8663a7eba0b653b13a82c162085ee8928b61d
     home: https://github.com/stakater/chart-prometheus
@@ -3770,7 +3785,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.173658968Z
+    created: 2018-11-27T11:50:59.284413228Z
     description: prometheus chart that runs on kubernetes
     digest: 6b3626aa7d367cfc0f8a8c7f0370e35dd43792786e4f6e001ca686723436d231
     home: https://github.com/stakater/chart-prometheus
@@ -3785,7 +3800,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.17317788Z
+    created: 2018-11-27T11:50:59.28395817Z
     description: prometheus chart that runs on kubernetes
     digest: 4bff5a0c2f31e7895748c4608e8c4bfd8b6b1e899a1b9b8836c4cd03131e41b7
     home: https://github.com/stakater/chart-prometheus
@@ -3800,7 +3815,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.172705817Z
+    created: 2018-11-27T11:50:59.283479176Z
     description: prometheus chart that runs on kubernetes
     digest: 20a19455bc95e144eafa736871967b3deb2b02c47e2facbb5a50f28b90d7c22d
     home: https://github.com/stakater/chart-prometheus
@@ -3815,7 +3830,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.172218581Z
+    created: 2018-11-27T11:50:59.283027126Z
     description: prometheus chart that runs on kubernetes
     digest: dd0dca8487f82c67ca1f0358b7aca57c6fa2394a2c358f0fba55005f211a8532
     home: https://github.com/stakater/chart-prometheus
@@ -3830,7 +3845,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.171762727Z
+    created: 2018-11-27T11:50:59.282549732Z
     description: prometheus chart that runs on kubernetes
     digest: 455b1388b5a6c5b7f677f8b7ace544ca93188a97f2cfb4485cc53be1bb8ecb71
     home: https://github.com/stakater/chart-prometheus
@@ -3845,7 +3860,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.169319978Z
+    created: 2018-11-27T11:50:59.280192937Z
     description: prometheus chart that runs on kubernetes
     digest: 1d228fdee755963b0d9e458efa957b62f542bc495ae9e46711a685c094fec5d4
     home: https://github.com/stakater/chart-prometheus
@@ -3861,7 +3876,7 @@ entries:
     version: 1.0.2
   prometheus-k8s-services:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.176019314Z
+    created: 2018-11-27T11:50:59.287688506Z
     description: prometheus-k8s-services chart that runs on kubernetes
     digest: 335b3355888125de5889df604f74b46461c62b3f4129b38a2289cf955c494c88
     home: https://github.com/stakater-charts/prometheus-k8s-services
@@ -3876,7 +3891,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-k8s-services-1.0.8.tgz
     version: 1.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.17578977Z
+    created: 2018-11-27T11:50:59.287433408Z
     description: prometheus-k8s-services chart that runs on kubernetes
     digest: 3171f48f954e9e5e0c13404b5948d23770fc10fa698d36d0a5cad6bd0a0050d0
     home: https://github.com/stakater/chart-prometheus-k8s-services
@@ -3891,7 +3906,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-k8s-services-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.175559485Z
+    created: 2018-11-27T11:50:59.287025212Z
     description: prometheus-k8s-services chart that runs on kubernetes
     digest: b3f08c9e25075c057c01080925228c7be28fe8bfec7a1066d222a7c9f54c287a
     home: https://github.com/stakater/chart-prometheus-k8s-services
@@ -3906,7 +3921,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-k8s-services-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.175298432Z
+    created: 2018-11-27T11:50:59.286599978Z
     description: prometheus-k8s-services chart that runs on kubernetes
     digest: d120b41d2163d6bf7a123b8d5b3a72a38f2b0ea430b3ec33a7fc6505254ad478
     home: https://github.com/stakater/chart-prometheus-k8s-services
@@ -3921,7 +3936,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-k8s-services-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.175056781Z
+    created: 2018-11-27T11:50:59.286192205Z
     description: prometheus-k8s-services chart that runs on kubernetes
     digest: 3019b7d197268c8548cd1cdeef5ae05ee88dddc5cea4c9b7efb197487c8f552a
     home: https://github.com/stakater/chart-prometheus-k8s-services
@@ -3936,7 +3951,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-k8s-services-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.174838145Z
+    created: 2018-11-27T11:50:59.285758226Z
     description: prometheus-k8s-services chart that runs on kubernetes
     digest: b1031c5c0acc2640f0ad12312fb158988e40b8a0a34ead107aabc3bb52810aa1
     home: https://github.com/stakater/chart-prometheus-k8s-services
@@ -3952,7 +3967,7 @@ entries:
     version: 1.0.3
   prometheus-operator:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.17774761Z
+    created: 2018-11-27T11:50:59.289408388Z
     description: prometheus-operator chart that runs on kubernetes
     digest: fe8097614b52054a51b4d26c0b80314b1487ccc49053b84ec74efecee559de86
     home: https://github.com/stakater-charts/prometheus-operator
@@ -3967,7 +3982,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-operator-1.0.7.tgz
     version: 1.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.177514664Z
+    created: 2018-11-27T11:50:59.289170517Z
     description: prometheus-operator chart that runs on kubernetes
     digest: b3c0f0cd7e5b75c1e9eabb62bb9cc0058e904d05806662a7dc9877b392a4547d
     home: https://github.com/stakater/chart-prometheus-operator
@@ -3982,7 +3997,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-operator-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.177249844Z
+    created: 2018-11-27T11:50:59.288933588Z
     description: prometheus-operator chart that runs on kubernetes
     digest: fb8009e2197cf61e367f7c3cf9d5797cfdbf6946fdfcee2d4bd7bcbdc811fe12
     home: https://github.com/stakater/chart-prometheus-operator
@@ -3997,7 +4012,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-operator-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.177011316Z
+    created: 2018-11-27T11:50:59.288676527Z
     description: prometheus-operator chart that runs on kubernetes
     digest: e32d934908e2a6dc9f9c6a742947e397e781160a7653704d2417ce1f72ec9de2
     home: https://github.com/stakater/chart-prometheus-operator
@@ -4012,7 +4027,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-operator-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.176772506Z
+    created: 2018-11-27T11:50:59.288430002Z
     description: prometheus-operator chart that runs on kubernetes
     digest: 6bf45a5021516960528d314aae27b588abf434b716e96b72778d97bdea6f82c4
     home: https://github.com/stakater/chart-prometheus-operator
@@ -4027,7 +4042,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-operator-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.176529375Z
+    created: 2018-11-27T11:50:59.288200126Z
     description: prometheus-operator chart that runs on kubernetes
     digest: bef2fa4908ad9c75a2d0697fb24758fc1615d5afaca2b364097ea643d309df43
     home: https://github.com/stakater/chart-prometheus-operator
@@ -4042,7 +4057,7 @@ entries:
     - https://stakater.github.io/stakater-charts/prometheus-operator-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.17629685Z
+    created: 2018-11-27T11:50:59.287959677Z
     description: prometheus-operator chart that runs on kubernetes
     digest: 3081912295e725110e395b0dc824f2e6755f73cc3e4b44ca05e788751384b130
     home: https://github.com/stakater/chart-prometheus-operator
@@ -4058,7 +4073,7 @@ entries:
     version: 1.0.1
   proxyinjector:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.181656661Z
+    created: 2018-11-27T11:50:59.29090508Z
     description: ProxyInjector chart that runs on kubernetes
     digest: f6cd718c065f1c9503b84d7b36329dd1fad3876d7ed97afc5172657cfd18970e
     home: https://github.com/stakater/ProxyInjector
@@ -4074,7 +4089,7 @@ entries:
     - https://stakater.github.io/stakater-charts/proxyinjector-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.181398564Z
+    created: 2018-11-27T11:50:59.290647423Z
     description: ProxyInjector chart that runs on kubernetes
     digest: 71f6b31ff26ab0ccc975209d4fae2675aced3be19aababb7a094a34157d406f8
     home: https://github.com/stakater/ProxyInjector
@@ -4090,7 +4105,7 @@ entries:
     - https://stakater.github.io/stakater-charts/proxyinjector-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.181060659Z
+    created: 2018-11-27T11:50:59.290408087Z
     description: ProxyInjector chart that runs on kubernetes
     digest: f8aa7d733af0c7b25d0a41ff5e1260fecac3e8f12fa60ced723149cc6639ba56
     home: https://github.com/stakater/ProxyInjector
@@ -4106,7 +4121,7 @@ entries:
     - https://stakater.github.io/stakater-charts/proxyinjector-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.179172736Z
+    created: 2018-11-27T11:50:59.290139974Z
     description: ProxyInjector chart that runs on kubernetes
     digest: 4b86f8a0382b44b3cf3d8e3ac82a24048bf46cd3b577c60b3a9826f4f8f23394
     home: https://github.com/stakater/ProxyInjector
@@ -4122,7 +4137,7 @@ entries:
     - https://stakater.github.io/stakater-charts/proxyinjector-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.178731207Z
+    created: 2018-11-27T11:50:59.289885607Z
     description: ProxyInjector chart that runs on kubernetes
     digest: e6faa295a2f453a57a96f794a2ea38363a30e5b96e95047e517f43ed85aa16ed
     home: https://github.com/stakater/ProxyInjector
@@ -4138,7 +4153,7 @@ entries:
     - https://stakater.github.io/stakater-charts/proxyinjector-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.178213777Z
+    created: 2018-11-27T11:50:59.289652196Z
     description: ProxyInjector chart that runs on kubernetes
     digest: b21efd2b6137d0302873eb2cc5b8b7f8cab91b610b1f7ded81f13db5d8a939db
     home: https://github.com/stakater/ProxyInjector
@@ -4155,7 +4170,7 @@ entries:
     version: 0.0.1
   rabbitmq:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.181864878Z
+    created: 2018-11-27T11:50:59.291109264Z
     description: Helm Chart for RabbitMQ to run kubernetes
     digest: 20617e820e9d9a1f043a2b17f7d0d5ceed42299cb870c9edc9b31d9c1986eba3
     home: https://github.com/stakater-charts/rabbitmq
@@ -4172,7 +4187,7 @@ entries:
   rbac:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2018-11-27T11:09:02.182116212Z
+    created: 2018-11-27T11:50:59.291338891Z
     description: Chart that deploys PV and PVC for use with any application
     digest: 72adeeef02ccd2cbb4c3744b7be33990ef1519aa154e0d95f6a6460fb99605a1
     home: https://github.com/stakater-charts/rbac
@@ -4189,7 +4204,7 @@ entries:
     version: 1.0.1
   reloader:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.184447331Z
+    created: 2018-11-27T11:50:59.293548101Z
     description: Reloader chart that runs on kubernetes
     digest: 31522c96e58f92f632ca23d1110f993a5a37fae8fd7290e26f59e81e899e150a
     home: https://github.com/stakater/Reloader
@@ -4204,7 +4219,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.18.tgz
     version: 0.0.18
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.184196749Z
+    created: 2018-11-27T11:50:59.29333156Z
     description: Reloader chart that runs on kubernetes
     digest: 07f3a56f8db080ea942d4e543b11d94906ede566e72dd72a6ce332ea9eda86d7
     home: https://github.com/stakater/Reloader
@@ -4219,7 +4234,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.17.tgz
     version: 0.0.17
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.183962862Z
+    created: 2018-11-27T11:50:59.293106634Z
     description: Reloader chart that runs on kubernetes
     digest: 95259f273791c8b5c1f30beb67b586de4d56d1e5cb98ed35f34a41c1dc73fe87
     home: https://github.com/stakater/Reloader
@@ -4234,7 +4249,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.16.tgz
     version: 0.0.16
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.183745123Z
+    created: 2018-11-27T11:50:59.292872225Z
     description: Reloader chart that runs on kubernetes
     digest: 6449ef266d888a85373d0323ca088d733489f43585eb00561af887458ed79d74
     home: https://github.com/stakater/Reloader
@@ -4249,7 +4264,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.15.tgz
     version: 0.0.15
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.183519838Z
+    created: 2018-11-27T11:50:59.292660365Z
     description: Reloader chart that runs on kubernetes
     digest: ed0044b9c34d8bbabb269ab779204ff41926988c37da01dc88b453fd2e9854f3
     home: https://github.com/stakater/Reloader
@@ -4264,7 +4279,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.14.tgz
     version: 0.0.14
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.183258173Z
+    created: 2018-11-27T11:50:59.292445335Z
     description: Reloader chart that runs on kubernetes
     digest: 6216c32f6341dc4b13e4133ca29eaff293def2fa595d659697d6705b48f244b1
     home: https://github.com/stakater/Reloader
@@ -4279,7 +4294,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.13.tgz
     version: 0.0.13
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.183040161Z
+    created: 2018-11-27T11:50:59.292223581Z
     description: Reloader chart that runs on kubernetes
     digest: 3fe8fa78082660e408f04888dbb95c8396d4e9f8274775393265e3b457b28104
     home: https://github.com/stakater/Reloader
@@ -4294,7 +4309,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.12.tgz
     version: 0.0.12
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.182818112Z
+    created: 2018-11-27T11:50:59.29200727Z
     description: Reloader chart that runs on kubernetes
     digest: d3e8b9a0071f89c516740604892702a788451f4b21f685dea4d993e252c14b54
     home: https://github.com/stakater/Reloader
@@ -4309,7 +4324,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.11.tgz
     version: 0.0.11
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.182600161Z
+    created: 2018-11-27T11:50:59.291774326Z
     description: Reloader chart that runs on kubernetes
     digest: 33826a10106ba757323640f05f41e73fd957ae1ee7bbe9057a14454f357ef343
     home: https://github.com/stakater/Reloader
@@ -4324,7 +4339,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.10.tgz
     version: 0.0.10
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.186244605Z
+    created: 2018-11-27T11:50:59.295369243Z
     description: Reloader chart that runs on kubernetes
     digest: 2b771fd54196e0eb5697f5fd50983ff91e240ae6b69fa58e4aa67f9855ec5e80
     home: https://github.com/stakater/Reloader
@@ -4339,7 +4354,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.186021673Z
+    created: 2018-11-27T11:50:59.295146984Z
     description: Reloader chart that runs on kubernetes
     digest: 0bcecb783ee9d17b1aa40cc86444d1a3c7eb280bdf45466f0a6117f22d78935e
     home: https://github.com/stakater/Reloader
@@ -4354,7 +4369,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.185804804Z
+    created: 2018-11-27T11:50:59.294929463Z
     description: Reloader chart that runs on kubernetes
     digest: c5de3f20cc971472615d1a21811b386c1a6a1b26aeeb7b9330abc4659216312d
     home: https://github.com/stakater/Reloader
@@ -4369,7 +4384,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.185584597Z
+    created: 2018-11-27T11:50:59.294676241Z
     description: Reloader chart that runs on kubernetes
     digest: a82f33306d43d878a45b83f6082e31fb0ffe9fccb153b3243c0f7d2faa8737d6
     home: https://github.com/stakater/Reloader
@@ -4384,7 +4399,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.185364574Z
+    created: 2018-11-27T11:50:59.294461612Z
     description: Reloader chart that runs on kubernetes
     digest: 67e9080a284916b61704dfb4f47a2c80c8507010f020dc53442ba6ef995f27b8
     home: https://github.com/stakater/Reloader
@@ -4399,7 +4414,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.185125441Z
+    created: 2018-11-27T11:50:59.294236164Z
     description: Reloader chart that runs on kubernetes
     digest: b780bab7db98fd0527029400af4eb9b10fa42900bc0b47b4bb4911a69ad238c8
     home: https://github.com/stakater/Reloader
@@ -4414,7 +4429,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.184898998Z
+    created: 2018-11-27T11:50:59.294019827Z
     description: Reloader chart that runs on kubernetes
     digest: c6e5b6b4e511ebd65dcd08330d95a4d18baab790da19ad9c7965e34bf552b24d
     home: https://github.com/stakater/Reloader
@@ -4429,7 +4444,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.184674614Z
+    created: 2018-11-27T11:50:59.293776804Z
     description: Reloader chart that runs on kubernetes
     digest: 32a1f0ec33eb9f96d494de3e3c2457f241e24dcb7efe6274aaf7e734f8b7f16c
     home: https://github.com/stakater/Reloader
@@ -4444,7 +4459,7 @@ entries:
     - https://stakater.github.io/stakater-charts/reloader-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.182376189Z
+    created: 2018-11-27T11:50:59.291553394Z
     description: Reloader chart that runs on kubernetes
     digest: 273388bc3ec8e379ab90d696f7370542256598c5479d178fc4c65735be5cbabe
     home: https://github.com/stakater/Reloader
@@ -4460,7 +4475,7 @@ entries:
     version: 0.0.1
   restful-distributed-lock-manager:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.186699596Z
+    created: 2018-11-27T11:50:59.295774263Z
     description: Helm Chart for Restful Distributed Lock Manager
     digest: 46fffe3362f50dc8f427cb7579a70703ecc965516a697edd805836cdbf6b2271
     home: https://github.com/stakater-charts/restful-distributed-lock-manager
@@ -4475,7 +4490,7 @@ entries:
     - https://stakater.github.io/stakater-charts/restful-distributed-lock-manager-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.186491133Z
+    created: 2018-11-27T11:50:59.295569693Z
     description: Helm Chart for Restful Distributed Lock Manager
     digest: e9738e4f0bc6983fb87ca6950539d1ff5d70b0b705b1508472d563f16c35cc2f
     home: https://github.com/stakater-charts/restful-distributed-lock-manager
@@ -4491,7 +4506,7 @@ entries:
     version: 1.0.1
   secrets:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.187148367Z
+    created: 2018-11-27T11:50:59.296497165Z
     description: secrets chart that runs on kubernetes
     digest: a4fffa18ceebcb616ec388237b4fe36ad862175e29ff39c207b3ef063bcf7bbd
     home: https://github.com/stakater-charts/secrets
@@ -4506,7 +4521,7 @@ entries:
     - https://stakater.github.io/stakater-charts/secrets-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.186919808Z
+    created: 2018-11-27T11:50:59.295999673Z
     description: secrets chart that runs on kubernetes
     digest: c2577b8e35cecb1d08dd3f4b5e8980af838362a1ed2bbb217efac858df5031c1
     home: https://github.com/stakater-charts/secrets
@@ -4522,7 +4537,7 @@ entries:
     version: 1.0.1
   servicemonitors:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.189123236Z
+    created: 2018-11-27T11:50:59.298849513Z
     description: servicemonitors chart that runs on kubernetes
     digest: c02c0124fd032673632d0e43ff79fb4af304d19ac59c3dc3ea8c33237caef027
     home: https://github.com/stakater-charts/servicemonitors
@@ -4537,7 +4552,7 @@ entries:
     - https://stakater.github.io/stakater-charts/servicemonitors-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.188882804Z
+    created: 2018-11-27T11:50:59.298623978Z
     description: servicemonitors chart that runs on kubernetes
     digest: 410a35dc2d36dfaefd778afba78f2840564216201d2df90e51fc9444016a2815
     home: https://github.com/stakater-charts/servicemonitors
@@ -4552,7 +4567,7 @@ entries:
     - https://stakater.github.io/stakater-charts/servicemonitors-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.188653322Z
+    created: 2018-11-27T11:50:59.298403449Z
     description: servicemonitors chart that runs on kubernetes
     digest: 769b807c224e5bd75e1d70e4daf070f68229ec3554005c495df18c966e4528e8
     home: https://github.com/stakater-charts/servicemonitors
@@ -4567,7 +4582,7 @@ entries:
     - https://stakater.github.io/stakater-charts/servicemonitors-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.188425736Z
+    created: 2018-11-27T11:50:59.298173061Z
     description: servicemonitors chart that runs on kubernetes
     digest: 4b0b252ae9082d832c494fe058092d2b23bc8c9d457260433c213ef4e0f6a17a
     home: https://github.com/stakater-charts/servicemonitors
@@ -4582,7 +4597,7 @@ entries:
     - https://stakater.github.io/stakater-charts/servicemonitors-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.188159617Z
+    created: 2018-11-27T11:50:59.297936154Z
     description: servicemonitors chart that runs on kubernetes
     digest: 5a380eb522f73e31221840480797e31bb1a4b470dd6fcf5656975bca2f409824
     home: https://github.com/stakater-charts/servicemonitors
@@ -4597,7 +4612,7 @@ entries:
     - https://stakater.github.io/stakater-charts/servicemonitors-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.187896218Z
+    created: 2018-11-27T11:50:59.297634441Z
     description: servicemonitors chart that runs on kubernetes
     digest: 63fdac94549f19b2fb6add8c3d6eb1ffe6661d67a9f57f6ab736c2de513e63dc
     home: https://github.com/stakater/chart-servicemonitors
@@ -4612,7 +4627,7 @@ entries:
     - https://stakater.github.io/stakater-charts/servicemonitors-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.18763767Z
+    created: 2018-11-27T11:50:59.2972395Z
     description: servicemonitors chart that runs on kubernetes
     digest: 4fce3f345dfe64d7c8e45091ae11e1a6243dc9400be61d34ed5c55aeb6bb7dff
     home: https://github.com/stakater/chart-servicemonitors
@@ -4627,7 +4642,7 @@ entries:
     - https://stakater.github.io/stakater-charts/servicemonitors-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.187401557Z
+    created: 2018-11-27T11:50:59.296860146Z
     description: servicemonitors chart that runs on kubernetes
     digest: 5a85012359256e0acdd667b8a043ed2e1ca9df3bc9abca5b583945a61b16d3f1
     home: https://github.com/stakater/chart-servicemonitors
@@ -4644,7 +4659,7 @@ entries:
   storage:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2018-11-27T11:09:02.189643543Z
+    created: 2018-11-27T11:50:59.299327579Z
     description: Chart that deploys PV and PVC for use with any application
     digest: ef6850de529368608f376a926995fc37283289a7ba80b0ead3e724d9d8d766de
     home: https://github.com/stakater-charts/storage
@@ -4661,7 +4676,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2018-11-27T11:09:02.189404337Z
+    created: 2018-11-27T11:50:59.299103942Z
     description: Chart that deploys PV and PVC for use with any application
     digest: af340855cb2c90f61f4bd89e7a3cd470591c4fe74cd07d2296e8bba737fa02d8
     home: https://github.com/stakater-charts/storage
@@ -4678,7 +4693,7 @@ entries:
     version: 1.0.0
   xposer:
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.191055441Z
+    created: 2018-11-27T11:50:59.300026187Z
     description: Xposer chart that runs on kubernetes
     digest: 7b65101da2d4429f38d0a9f602515fc93dcc9c057406f2ef172cdb56010c9bc3
     home: https://github.com/stakater/Xposer
@@ -4693,7 +4708,7 @@ entries:
     - https://stakater.github.io/stakater-charts/xposer-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.190662754Z
+    created: 2018-11-27T11:50:59.299779918Z
     description: Xposer chart that runs on kubernetes
     digest: ea649ad1dfcf58ce58d04dc6094f9cb1f2ee5025e6fde1b192269dc0d9dece00
     home: https://github.com/stakater/Xposer
@@ -4708,7 +4723,7 @@ entries:
     - https://stakater.github.io/stakater-charts/xposer-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2018-11-27T11:09:02.190203865Z
+    created: 2018-11-27T11:50:59.299550387Z
     description: Xposer chart that runs on kubernetes
     digest: 2c6e7c635e17a61cf7d70ad2108967c608c8b09ca8faf893ef3a7c67bde1025c
     home: https://github.com/stakater/Xposer
@@ -4722,4 +4737,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: 2018-11-27T11:09:02.093157964Z
+generated: 2018-11-27T11:50:59.205968234Z
