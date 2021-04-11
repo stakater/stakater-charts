@@ -1993,21 +1993,6 @@ entries:
     - https://stakater.github.io/stakater-charts/forecastle-v1.0.63.tgz
     version: v1.0.63
   - apiVersion: v1
-    created: "2021-04-08T15:40:26.903723075Z"
-    description: forecastle chart that runs on kubernetes
-    digest: 76c69d5ae67dc37e21c2930e1619ac9e8e6815982927e21de84b8aa6ff9ae5cf
-    home: https://github.com/stakater/Forecastle
-    keywords:
-    - forecastle
-    - kubernetes
-    maintainers:
-    - email: stakater@aurorasolutions.io
-      name: Stakater
-    name: forecastle
-    urls:
-    - https://stakater.github.io/stakater-charts/forecastle-1.0.63.tgz
-    version: 1.0.63
-  - apiVersion: v1
     created: "2021-04-08T15:40:26.932176336Z"
     description: forecastle chart that runs on kubernetes
     digest: 454d954ad29ce3535b476e4f79f022b89493974dd2a4697a2d8eafbb5ecada46
@@ -10116,6 +10101,39 @@ entries:
     version: 1.0.1
   reloader:
   - apiVersion: v1
+    appVersion: v0.0.87
+    created: "2021-04-11T18:21:34.538970344Z"
+    description: Reloader chart that runs on kubernetes
+    digest: 308e840c950ca1abe056d1c1690e304592a6b70079863dc79fde373e07394bec
+    home: https://github.com/stakater/Reloader
+    icon: https://raw.githubusercontent.com/stakater/Reloader/master/assets/web/reloader-round-100px.png
+    keywords:
+    - Reloader
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    - email: rasheed@aurorasolutions.io
+      name: rasheedamir
+    - email: waseemhassan@stakater.com
+      name: waseem-h
+    - email: faizan.ahmad55@outlook.com
+      name: faizanahmad055
+    - email: ali.kahoot@aurorasolutions.io
+      name: kahootali
+    - email: ahmad@aurorasolutions.io
+      name: ahmadiq
+    - email: ahsanmuhammad1@outlook.com
+      name: ahsan-storm
+    - email: waleed@stakater.com
+      name: ahmedwaleedmalik
+    name: reloader
+    sources:
+    - https://github.com/stakater/IngressMonitorController
+    urls:
+    - https://stakater.github.io/stakater-charts/reloader-v0.0.87.tgz
+    version: v0.0.87
+  - apiVersion: v1
     appVersion: v0.0.86
     created: "2021-04-08T15:40:27.256685068Z"
     description: Reloader chart that runs on kubernetes
@@ -13505,4 +13523,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2021-04-08T15:40:26.780799581Z"
+generated: "2021-04-11T18:21:34.538100971Z"
