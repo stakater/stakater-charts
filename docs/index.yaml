@@ -7636,6 +7636,22 @@ entries:
     version: 1.1.1
   konfigurator:
   - apiVersion: v1
+    created: "2021-04-20T10:55:24.970788212Z"
+    description: Konfigurator chart that runs on kubernetes
+    digest: b805a40e566cd0ec2aff2e60f50969b60037d714015e5c1fbe8cad4b91c3e15c
+    home: https://github.com/stakater/konfigurator
+    icon: https://raw.githubusercontent.com/stakater/Konfigurator/master/assets/web/Konfigurator-round-100px.png
+    keywords:
+    - Konfigurator
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    name: konfigurator
+    urls:
+    - https://stakater.github.io/stakater-charts/konfigurator-0.1.12.tgz
+    version: 0.1.12
+  - apiVersion: v1
     created: "2021-04-08T15:40:27.086508107Z"
     description: Konfigurator chart that runs on kubernetes
     digest: f0af402d1afd911fe957e9be248914753eb7f8ea635e3a68e4de162695848622
@@ -13543,4 +13559,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2021-04-19T10:48:26.320405349Z"
+generated: "2021-04-20T10:55:24.97009971Z"
