@@ -8502,6 +8502,24 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/mysql-storage-1.0.6.tgz
     version: 1.0.6
+  namespace-configuration-operator:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2021-04-28T07:36:19.647826009Z"
+    description: Helm chart that deploys namespace-configuration-operator
+    digest: e3256b548fec848faee67f8b984bd31d95fd37971ac61ffeec912896ea421ffc
+    keywords:
+    - volume
+    - storage
+    - csi
+    - expansion
+    - monitoring
+    name: namespace-configuration-operator
+    sources:
+    - https://github.com/redhat-cop/namespace-configuration-operator
+    urls:
+    - https://stakater.github.io/stakater-charts/namespace-configuration-operator-0.0.1.tgz
+    version: 0.0.1
   node-exporter:
   - apiVersion: v1
     created: "2021-04-08T15:40:27.10467221Z"
@@ -13625,4 +13643,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2021-04-26T04:52:00.153541841Z"
+generated: "2021-04-28T07:36:19.646801808Z"
