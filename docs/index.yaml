@@ -13161,6 +13161,30 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/tenant-operator-0.0.2.tgz
     version: 0.0.2
+  tenant-operator-crd:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-04-29T06:21:34.760377361Z"
+    description: Installs the CRDs for Tenant-Operator
+    digest: d3190dac336625490c05d4ce6c5c3a0244690c48cc27218a6e396be1761ae0af
+    icon: https://avatars1.githubusercontent.com/u/15930712?s=280&v=4
+    name: tenant-operator-crd
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/tenant-operator-crd-0.0.1.tgz
+    version: 0.0.1
+  tronador:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-04-29T06:21:34.760723166Z"
+    description: A Helm chart for Tronador
+    digest: 38087c22d49932e7576b56a20192e53f0f5debcca490a1c512178f3cd775f2ab
+    icon: https://avatars1.githubusercontent.com/u/15930712?s=280&v=4
+    name: tronador
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/tronador-0.0.1.tgz
+    version: 0.0.1
   whitelister:
   - apiVersion: v1
     created: "2021-04-08T15:40:27.296081191Z"
@@ -13643,4 +13667,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2021-04-28T07:36:19.646801808Z"
+generated: "2021-04-29T06:21:34.759962056Z"
