@@ -7223,6 +7223,28 @@ entries:
     version: 0.20.0
   jira-service-desk-operator:
   - apiVersion: v2
+    appVersion: 0.0.45
+    created: "2021-05-24T04:57:16.49209139Z"
+    description: Helm Chart for jira-service-desk-operator
+    digest: 8b79ce2143f59d858ed3d605926eb46683f510432f876b59f41011acb76378dd
+    icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
+    keywords:
+    - stakater
+    - sro
+    - jira-service-desk-operator
+    - jira
+    - service desk
+    maintainers:
+    - email: hello@stakater.com
+      name: stakater
+    name: jira-service-desk-operator
+    sources:
+    - https://github.com/stakater/jira-service-desk-operator
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/jira-service-desk-operator-0.0.45.tgz
+    version: 0.0.45
+  - apiVersion: v2
     appVersion: 0.0.44
     created: "2021-05-20T06:18:43.49517905Z"
     description: Helm Chart for jira-service-desk-operator
@@ -13983,4 +14005,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2021-05-20T06:18:43.494115843Z"
+generated: "2021-05-24T04:57:16.491160082Z"
