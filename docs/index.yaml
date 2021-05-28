@@ -8824,9 +8824,9 @@ entries:
   namespace-configuration-operator:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-04-28T07:36:19.647826009Z"
+    created: "2021-05-28T12:12:19.835164112Z"
     description: Helm chart that deploys namespace-configuration-operator
-    digest: e3256b548fec848faee67f8b984bd31d95fd37971ac61ffeec912896ea421ffc
+    digest: fafe7fad017ba585f2067735785cc637a487fdfcc858572be1b4b7b0b4bd14ba
     keywords:
     - volume
     - storage
@@ -14124,4 +14124,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2021-05-25T07:10:13.467715788Z"
+generated: "2021-05-28T12:12:19.834390661Z"
