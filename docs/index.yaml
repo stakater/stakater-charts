@@ -14730,6 +14730,31 @@ entries:
   vault:
   - apiVersion: v2
     appVersion: 1.8.4
+    created: "2021-11-17T07:46:51.484479062Z"
+    description: Official HashiCorp Vault Chart
+    digest: ab0ef6580eb563ab1aefbf4b08afeb7672064940be53fe23a71b79395bcff7cc
+    home: https://www.vaultproject.io
+    icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
+    keywords:
+    - vault
+    - security
+    - encryption
+    - secrets
+    - management
+    - automation
+    - infrastructure
+    kubeVersion: '>= 1.14.0-0'
+    name: vault
+    sources:
+    - https://github.com/hashicorp/vault
+    - https://github.com/hashicorp/vault-helm
+    - https://github.com/hashicorp/vault-k8s
+    - https://github.com/hashicorp/vault-csi-provider
+    urls:
+    - https://stakater.github.io/stakater-charts/vault-0.8.2.tgz
+    version: 0.8.2
+  - apiVersion: v2
+    appVersion: 1.8.4
     created: "2021-11-16T14:36:14.047972573Z"
     description: Official HashiCorp Vault Chart
     digest: 8f4e91a14de390bbc1e1ec3c6c25432155c7ef66440ca27a5065896dc8d78ebd
@@ -16017,4 +16042,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2021-11-16T14:36:14.044169442Z"
+generated: "2021-11-17T07:46:51.481523125Z"
