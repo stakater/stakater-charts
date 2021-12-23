@@ -5,3 +5,4 @@ This repo contains the following charts
   - Jamadar
   - GitWebhookProxy
   - IngressMonitorController
+  - Reloader
