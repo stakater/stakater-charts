@@ -15322,6 +15322,27 @@ entries:
     version: 0.0.1
   workshop-operator:
   - apiVersion: v2
+    appVersion: 0.0.36
+    created: "2022-01-16T04:49:44.038372Z"
+    description: Helm Chart for workshop-operator
+    digest: 8669edbdb1c2db684101300d3324384b1614c494113e14d5d26e58fd246ff380
+    icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
+    keywords:
+    - stakater
+    - sro
+    - workshop-operator
+    - slack
+    maintainers:
+    - email: hello@stakater.com
+      name: stakater
+    name: workshop-operator
+    sources:
+    - https://github.com/stakater/workshop-operator
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/workshop-operator-0.0.36.tgz
+    version: 0.0.36
+  - apiVersion: v2
     appVersion: 0.0.35
     created: "2021-12-27T13:14:03.996849415Z"
     description: Helm Chart for workshop-operator
@@ -16441,4 +16462,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-01-14T10:44:34.277616234Z"
+generated: "2022-01-16T04:49:44.037604091Z"
