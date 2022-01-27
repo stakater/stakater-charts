@@ -2539,6 +2539,26 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/external-ingress-1.0.8.tgz
     version: 1.0.8
+  external-secrets:
+  - apiVersion: v2
+    appVersion: v0.3.11
+    created: "2022-01-27T11:30:06.929069143Z"
+    description: External secret management for Kubernetes
+    digest: 817dfc3f4f7d8d09517a7ba8d7188d1d205e21bead1c7922daf68ea2cbd4cb02
+    home: https://github.com/external-secrets/external-secrets
+    icon: https://raw.githubusercontent.com/external-secrets/external-secrets/main/assets/round_eso_logo.png
+    keywords:
+    - kubernetes-external-secrets
+    - secrets
+    kubeVersion: '>= 1.11.0-0'
+    maintainers:
+    - email: kellinmcavoy@gmail.com
+      name: mcavoyk
+    name: external-secrets
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/external-secrets-0.3.12-ddf55c8.tgz
+    version: 0.3.12-ddf55c8
   fluentd:
   - apiVersion: v1
     created: "2021-04-08T15:40:26.884310166Z"
@@ -16607,4 +16627,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-01-26T12:45:16.771163488Z"
+generated: "2022-01-27T11:30:06.928333653Z"
