@@ -2550,7 +2550,6 @@ entries:
     keywords:
     - kubernetes-external-secrets
     - secrets
-    kubeVersion: '>= 1.11.0-0'
     maintainers:
     - email: kellinmcavoy@gmail.com
       name: mcavoyk
