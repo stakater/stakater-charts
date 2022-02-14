@@ -15795,6 +15795,23 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/tronador-0.0.1.tgz
     version: 0.0.1
+  umbrella-chart:
+  - apiVersion: v2
+    created: "2022-02-14T17:55:52.07146305Z"
+    dependencies:
+    - name: application
+      repository: https://stakater.github.io/stakater-charts
+      version: 0.0.*
+    - name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.4.2
+    description: A Helm chart for Kubernetes
+    digest: c5fde8f2980b8b03efda4575c5f9569a798862b44ed0012d4ec04d6ae1543c72
+    name: umbrella-chart
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/umbrella-chart-0.0.1-71306cb.tgz
+    version: 0.0.1-71306cb
   vault:
   - apiVersion: v2
     appVersion: 1.8.4
@@ -17236,4 +17253,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-02-13T12:48:02.670382572Z"
+generated: "2022-02-14T17:55:52.060850281Z"
