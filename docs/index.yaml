@@ -16165,6 +16165,27 @@ entries:
     version: 0.0.1
   umbrella-chart:
   - apiVersion: v2
+    created: "2022-03-03T06:03:49.265949157Z"
+    dependencies:
+    - name: application
+      repository: https://stakater.github.io/stakater-charts
+      version: 1.0.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.4.2
+    - condition: mongodb.enabled
+      name: mongodb
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.30.0
+    description: A Helm chart for Kubernetes
+    digest: 44663208eab6553775f1eef58b8679adeff0cf25cc0abe7b23823e69f8ae2dd0
+    name: umbrella-chart
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/umbrella-chart-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
     created: "2022-03-01T09:20:05.226776448Z"
     dependencies:
     - name: application
@@ -17690,4 +17711,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-03-02T20:49:43.239580693Z"
+generated: "2022-03-03T06:03:49.25114814Z"
