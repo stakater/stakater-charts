@@ -14949,6 +14949,27 @@ entries:
     version: 0.0.1
   slack-operator:
   - apiVersion: v2
+    appVersion: 0.0.29
+    created: "2022-03-11T07:43:35.71602142Z"
+    description: Helm Chart for slack-operator
+    digest: 48c143e9ff5a35808efcb2734e0b7828ae5acf75f933d9d54204e3f478caff89
+    icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
+    keywords:
+    - stakater
+    - sro
+    - slack-operator
+    - slack
+    maintainers:
+    - email: hello@stakater.com
+      name: stakater
+    name: slack-operator
+    sources:
+    - https://github.com/stakater/slack-operator
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/slack-operator-0.0.29.tgz
+    version: 0.0.29
+  - apiVersion: v2
     appVersion: 0.0.28
     created: "2021-05-25T07:10:13.468696394Z"
     description: Helm Chart for slack-operator
@@ -17868,4 +17889,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-03-09T09:47:31.868555175Z"
+generated: "2022-03-11T07:43:35.712504971Z"
