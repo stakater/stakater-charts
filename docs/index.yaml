@@ -9188,6 +9188,27 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/jira-service-desk-operator-0.0.24.tgz
     version: 0.0.24
+  k8scostoptimizer:
+  - apiVersion: v1
+    appVersion: v0.0.1-86e7b56
+    created: "2022-03-22T11:52:15.940220043Z"
+    description: k8scostoptimizer chart that runs on kubernetes
+    digest: c0cc9fd78375a9409632fcba702fd3d186f9dd0fbe4cab02219aeb61c21d9296
+    home: https://github.com/stakater/k8scostoptimizer
+    keywords:
+    - k8scostoptimizer
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    - email: talha.irfan@stakater.com
+      name: talha0324
+    name: k8scostoptimizer
+    sources:
+    - https://github.com/stakater/k8scostoptimizer
+    urls:
+    - https://stakater.github.io/stakater-charts/k8scostoptimizer-v0.0.1-86e7b56.tgz
+    version: v0.0.1-86e7b56
   keycloak:
   - apiVersion: v1
     created: "2021-04-08T15:40:27.073320133Z"
@@ -18130,4 +18151,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-03-18T18:04:10.472177713Z"
+generated: "2022-03-22T11:52:15.938136037Z"
