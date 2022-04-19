@@ -11008,6 +11008,17 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/pgadmin-0.1.8.tgz
     version: 0.1.8
+  pipeline-charts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-19T11:34:33.037755333Z"
+    description: A Helm chart for Kubernetes
+    digest: 1c03b1b117a1a3428cee104049c994ea0dfc7adeb95df08cfed8e75defe06132
+    name: pipeline-charts
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/pipeline-charts-0.0.1.tgz
+    version: 0.0.1
   prometheus:
   - apiVersion: v1
     created: "2021-04-08T15:40:27.165152552Z"
@@ -18639,4 +18650,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-04-15T11:05:59.563853706Z"
+generated: "2022-04-19T11:34:33.036815712Z"
