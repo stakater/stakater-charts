@@ -9526,6 +9526,26 @@ entries:
     version: 0.0.24
   k8scostoptimizer:
   - apiVersion: v1
+    appVersion: v0.0.4
+    created: "2022-05-26T08:39:33.222083934Z"
+    description: k8scostoptimizer chart that runs on kubernetes
+    digest: 7b93e3bcdd5f22755095412abcb09552ac92234e02a5f6c1eaa3a606f36000b2
+    home: https://github.com/stakater/k8scostoptimizer
+    keywords:
+    - k8scostoptimizer
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    - email: talha.irfan@stakater.com
+      name: talha0324
+    name: k8scostoptimizer
+    sources:
+    - https://github.com/stakater/k8scostoptimizer
+    urls:
+    - https://stakater.github.io/stakater-charts/k8scostoptimizer-v0.0.4.tgz
+    version: v0.0.4
+  - apiVersion: v1
     appVersion: v0.0.3
     created: "2022-05-24T12:26:14.259472725Z"
     description: k8scostoptimizer chart that runs on kubernetes
@@ -19046,4 +19066,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-05-24T13:18:38.247911266Z"
+generated: "2022-05-26T08:39:33.221030121Z"
