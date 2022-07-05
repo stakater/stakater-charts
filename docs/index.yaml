@@ -11515,6 +11515,15 @@ entries:
     version: 0.1.8
   pipeline-charts:
   - apiVersion: v2
+    created: "2022-07-05T07:45:25.777013826Z"
+    description: A Helm chart for creating Tekton Resources Pipelines, Trigger Templates,
+      Event Listeners and Trigger Bindings
+    digest: 036990e18ed569295c3e684325c2879f3b6abbfc25b9470d85a0b53177082623
+    name: pipeline-charts
+    urls:
+    - https://stakater.github.io/stakater-charts/pipeline-charts-0.0.18.tgz
+    version: 0.0.18
+  - apiVersion: v2
     created: "2022-07-04T13:50:51.906624813Z"
     description: A Helm chart for creating Tekton Resources Pipelines, Trigger Templates,
       Event Listeners and Trigger Bindings
@@ -19712,4 +19721,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-07-04T13:50:51.904868827Z"
+generated: "2022-07-05T07:45:25.775754227Z"
