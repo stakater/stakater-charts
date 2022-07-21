@@ -17011,9 +17011,9 @@ entries:
   tenant-insights:
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2022-07-21T07:51:33.838115177Z"
+    created: "2022-07-21T08:01:33.69606194Z"
     description: A Helm chart for OpenShift4 Container Platform Insight
-    digest: bfe9f63e0db3095279e27ae91db4ae5b779db433b52c6e2dd56629c777160cd0
+    digest: c835d89b10cf5026de0d6caa2db9b9de916393ddd8108dbc53d3a6d8ee08b8b1
     name: tenant-insights
     type: application
     urls:
@@ -19971,4 +19971,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-07-21T07:51:33.835526663Z"
+generated: "2022-07-21T08:01:33.687992244Z"
