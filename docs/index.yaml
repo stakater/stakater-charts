@@ -12963,6 +12963,16 @@ entries:
   rabbitmq-observability:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-08-08T16:16:42.030716211Z"
+    description: A Helm chart for Kubernetes
+    digest: 8c7003bbeddbcc50c691dc3e1314c5d6dc47ce4baeaab0c5aeb10df315749cd5
+    name: rabbitmq-observability
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/rabbitmq-observability-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-08-03T18:21:12.31271513Z"
     description: A Helm chart for Kubernetes
     digest: 62a3c536542a474b97a190eb94e42cd67768955ccc91bfa5c3074630f53cb928
@@ -20506,4 +20516,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-08-05T12:42:07.650792099Z"
+generated: "2022-08-08T16:16:42.022532617Z"
