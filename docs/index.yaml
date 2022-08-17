@@ -11228,6 +11228,28 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/logrotate-1.0.0.tgz
     version: 1.0.0
+  mattermost-operator:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-17T15:35:07.177510379Z"
+    description: A Helm chart for Kubernetes
+    digest: 6292886d5813bb6d0adf8c2235d27b97d0cccf8130a42afcf37688258a5656c0
+    name: mattermost-operator
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/mattermost-operator-0.1.1.tgz
+    version: 0.1.1
+  minio-operator:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-17T15:35:07.17806278Z"
+    description: A Helm chart for Kubernetes
+    digest: e0081b21b17991a7e61eed1be5eb3c773ee9817958f4bc954ce07cb731aa3986
+    name: minio-operator
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/minio-operator-0.1.0.tgz
+    version: 0.1.0
   mongodb:
   - apiVersion: v1
     created: "2021-04-08T15:40:27.102292197Z"
@@ -11935,6 +11957,17 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/pipeline-charts-0.0.1.tgz
     version: 0.0.1
+  postgres-instance:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-17T15:35:07.17837858Z"
+    description: A Helm chart for Kubernetes
+    digest: c2d2b9c9db6876af5f9a43ac83d433b99e2e9c8156920ba38dde3d6a851ac5b9
+    name: postgres-instance
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/postgres-instance-0.1.0.tgz
+    version: 0.1.0
   prometheus:
   - apiVersion: v1
     created: "2021-04-08T15:40:27.165152552Z"
@@ -20663,4 +20696,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-08-17T15:14:52.797320623Z"
+generated: "2022-08-17T15:35:07.176479178Z"
