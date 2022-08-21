@@ -11231,7 +11231,7 @@ entries:
   mattermost-operator:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-21T20:15:12.078301923Z"
+    created: "2022-08-21T20:24:44.943284984Z"
     dependencies:
     - condition: postgres-instance.enabled
       name: postgres-instance
@@ -11242,7 +11242,7 @@ entries:
       repository: https://stakater.github.io/stakater-charts
       version: 0.1.2
     description: A Helm chart for Kubernetes
-    digest: 55b034e1f2b6260198f35a2b6e709a8a7a90148ae49ec250cd28f7d8b4c1bc2b
+    digest: 6eba9a457b34763111ff6290a4b1f972d483d9e5790c8090c2bad43ec7fa24ea
     name: mattermost-operator
     type: application
     urls:
@@ -11272,6 +11272,17 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/mattermost-operator-0.1.1.tgz
     version: 0.1.1
+  minio:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-21T20:24:44.943695888Z"
+    description: A Helm chart for Kubernetes
+    digest: 7fe7ff813ccc56138780adec222553d86b23f4ce6a89adac947862ba0cd05524
+    name: minio
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/minio-0.1.3.tgz
+    version: 0.1.3
   minio-operator:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -12013,9 +12024,9 @@ entries:
   postgres-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-21T20:15:12.079135165Z"
+    created: "2022-08-21T20:24:44.943950391Z"
     description: A Helm chart for Kubernetes
-    digest: af81ac6fe46c143c480326448daebdbb619fda06096448bb9da921f9a7d9f275
+    digest: 8cdb5795c6ff83935e441f4bd76f479682e723ddefc4d58e846a3ea224b982ad
     name: postgres-instance
     type: application
     urls:
@@ -20749,4 +20760,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-08-21T20:15:12.076278421Z"
+generated: "2022-08-21T20:24:44.941235761Z"
