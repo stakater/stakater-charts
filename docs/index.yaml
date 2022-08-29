@@ -9936,6 +9936,17 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/jira-service-desk-operator-0.0.24.tgz
     version: 0.0.24
+  jvm-observability:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-29T20:47:46.086838198Z"
+    description: A Helm chart for Kubernetes showing Java Observability
+    digest: f3737c4afe47765a9ba68f1e5a8bd913fb6df1c66f43eaba3fe27f0c2ce3be83
+    name: jvm-observability
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/jvm-observability-0.0.1.tgz
+    version: 0.0.1
   k8scostoptimizer:
   - apiVersion: v1
     appVersion: v0.0.5
@@ -11261,7 +11272,7 @@ entries:
   mattermost-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-29T19:13:31.02862997Z"
+    created: "2022-08-29T20:47:46.088434521Z"
     dependencies:
     - condition: postgres-instance.enabled
       name: postgres-instance
@@ -11272,7 +11283,7 @@ entries:
       repository: https://stakater.github.io/stakater-charts
       version: 0.1.4
     description: A Helm chart for Kubernetes
-    digest: d7d556fa588318015f33ab4aa4ade7b0530961af74755097c3fa32031b5db61b
+    digest: a7dc56803ebe7da3e6800f0f810d29d67765eded139e904a9cbd5b113d99d437
     name: mattermost-instance
     type: application
     urls:
@@ -11382,9 +11393,9 @@ entries:
   minio:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-29T19:13:31.029034266Z"
+    created: "2022-08-29T20:47:46.08881905Z"
     description: A Helm chart for Kubernetes
-    digest: 94da84befe9cc71fc49375c53fd29638c25e6dc1dba90f26320b479a57218b59
+    digest: 71049826d64d0650bcad6c246006e08ad732c9fe174fda541b2c8ffcd27c12fb
     name: minio
     type: application
     urls:
@@ -12141,9 +12152,9 @@ entries:
   postgres-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-08-29T19:13:31.029282564Z"
+    created: "2022-08-29T20:47:46.089046768Z"
     description: A Helm chart for Kubernetes
-    digest: 10f38d16b3b931225401693d6448eb76d846b30bcc686a4588e19a6ffdd4f3dd
+    digest: dfde70ce687fde4c755bc6117a61f63642fb7fedd346503af5c9f2f3cc3de8b9
     name: postgres-instance
     type: application
     urls:
@@ -20897,4 +20908,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-08-29T19:13:31.025957396Z"
+generated: "2022-08-29T20:47:46.085309281Z"
