@@ -9975,9 +9975,9 @@ entries:
   jvm-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-06T19:10:34.180564082Z"
+    created: "2022-09-11T16:40:45.077871908Z"
     description: A Helm chart for Kubernetes showing Java Observability
-    digest: ee9ecd64213e68bb6685142756abe8ceac92f769d85b38bc2d765357f5840eff
+    digest: efd3f5a87f3d35ada57d2becb4d54a83d62476353eccfa93e447d23112b0074d
     name: jvm-observability
     type: application
     urls:
@@ -11308,7 +11308,7 @@ entries:
   mattermost-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-06T19:10:34.182258203Z"
+    created: "2022-09-11T16:40:45.079579213Z"
     dependencies:
     - condition: postgres-instance.enabled
       name: postgres-instance
@@ -11319,7 +11319,7 @@ entries:
       repository: https://stakater.github.io/stakater-charts
       version: 0.1.4
     description: A Helm chart for Kubernetes
-    digest: d0a4d9b72ad0d8723199a271f65911f25651811a9f9ae4e62a94ffb8bfa3ed48
+    digest: 06cfa3880caa0af3e16d57970ca9ffe4bb3919ce3ecd2e0ba709d0ee6323268c
     name: mattermost-instance
     type: application
     urls:
@@ -11448,9 +11448,9 @@ entries:
   minio:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-06T19:10:34.182690409Z"
+    created: "2022-09-11T16:40:45.080134815Z"
     description: A Helm chart for Kubernetes
-    digest: b791f4041171bbef778460728914482f407d71f7e6394420e208580ca9b0b076
+    digest: ed2e62d20d23e30f479575c9e85595e369b8cc1f75c399485576d5b9cdbcc2a9
     name: minio
     type: application
     urls:
@@ -12225,9 +12225,9 @@ entries:
   postgres-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-06T19:10:34.183023813Z"
+    created: "2022-09-11T16:40:45.080588916Z"
     description: A Helm chart for Kubernetes
-    digest: a992e391dc7451eb7203b9aefd6ec72b84388809de7372c2688a0424774d53d8
+    digest: e5d0b503f2ff3bffafbf5772d4d8eb21377058b3e16db214189279ebbc509157
     name: postgres-instance
     type: application
     urls:
@@ -12256,9 +12256,9 @@ entries:
   postgres-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-06T19:10:34.184673334Z"
+    created: "2022-09-11T16:40:45.08188572Z"
     description: A Helm chart for Kubernetes
-    digest: c3394a3e977cfe4d8f2e3dee68092f57a89b0d0c25eaf0c30b57205c005a2233
+    digest: d5277196294adefcd9de021c33ba38413319b02513f5ef51f4183a4d02292f5f
     name: postgres-observability
     type: application
     urls:
@@ -13359,9 +13359,9 @@ entries:
   rabbitmq-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-06T19:10:34.189431295Z"
+    created: "2022-09-11T16:40:45.086507134Z"
     description: A Helm chart for Kubernetes
-    digest: acddd9039a550554d41ab037535c9c19f07aac81c7ffc8e28433e9e072f3cc7c
+    digest: 7f2136d25fedcd3a79f9d7c823536a4d9c9a17e10f910398ef429d32aeee9e58
     name: rabbitmq-observability
     type: application
     urls:
@@ -13628,9 +13628,9 @@ entries:
   redis-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-06T19:10:34.189941801Z"
+    created: "2022-09-11T16:40:45.087365137Z"
     description: A Helm chart for Kubernetes to monitor the redis
-    digest: 76345b5e7068f71e5093a431ea492441a3acd3c07d784c8f32c96b58f0431145
+    digest: 6d0fd8bb664629c325e61e5d45ef6f9ed238c1227d7403bc1f6a1d1e3327dbe8
     name: redis-observability
     type: application
     urls:
@@ -17107,6 +17107,17 @@ entries:
     name: servicemonitors
     urls:
     - https://stakater.github.io/stakater-charts/servicemonitors-0.0.1.tgz
+    version: 0.0.1
+  signport-observability:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-09-11T16:40:45.08825354Z"
+    description: A Helm chart for Kubernetes
+    digest: 5c37f74e977fd15d0e680a9ff7b9cc3c0628d2e5ad69964f17edefd39a216df2
+    name: signport-observability
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/signport-observability-0.0.1.tgz
     version: 0.0.1
   slack-operator:
   - apiVersion: v2
@@ -21084,4 +21095,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-11T08:31:37.793005668Z"
+generated: "2022-09-11T16:40:45.077126206Z"
