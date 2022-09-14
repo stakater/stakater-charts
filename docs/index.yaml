@@ -9975,9 +9975,9 @@ entries:
   jvm-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T08:57:16.317390192Z"
+    created: "2022-09-14T19:25:01.631210915Z"
     description: A Helm chart for Kubernetes showing Java Observability
-    digest: b88fba42d3b1a3f61ccc13782a9ab17e15326cda9129919d8bf17b86bb73db46
+    digest: 381bb7518e6315c961664d304b4ee9d2b632ee8d34be1b01ba17a810aa140cb3
     name: jvm-observability
     type: application
     urls:
@@ -11308,7 +11308,7 @@ entries:
   mattermost-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T08:57:16.319039623Z"
+    created: "2022-09-14T19:25:01.633191686Z"
     dependencies:
     - condition: postgres-instance.enabled
       name: postgres-instance
@@ -11319,7 +11319,7 @@ entries:
       repository: https://stakater.github.io/stakater-charts
       version: 0.1.4
     description: A Helm chart for Kubernetes
-    digest: 2ce9f1fcc3bdf38068d9093c7bccd2d9353b568bf9a22b70350c3a9bda1f2abd
+    digest: 229ce2ac2ea1136ae51d84ce39aa0ecf663dfb4af40fdca73511aa4ea8a8a717
     name: mattermost-instance
     type: application
     urls:
@@ -11467,9 +11467,9 @@ entries:
   minio:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T08:57:16.319466631Z"
+    created: "2022-09-14T19:25:01.633646003Z"
     description: A Helm chart for Kubernetes
-    digest: 5a874e6bfeeca42866f3126b34eeaa44f66228c40a9bd0ca6c26b77662fff7e6
+    digest: 9c15361985bcd57f04e7a13097d02cd9b2dd517e62070d0e096b809db7b5bf79
     name: minio
     type: application
     urls:
@@ -11781,7 +11781,7 @@ entries:
   nordmart-review:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T08:57:16.328673706Z"
+    created: "2022-09-14T19:25:01.644617598Z"
     dependencies:
     - name: mongodb
       repository: https://raw.githubusercontent.com/bitnami/charts/defb094c658024e4aa8245622dab202874880cbc/bitnami
@@ -11795,7 +11795,7 @@ entries:
       repository: https://stakater.github.io/stakater-charts
       version: 1.1.14
     description: Chart for deploying nordmart review, nordmart review ui and mongodb
-    digest: 4d5d0034f95342f64dbf6e9616647e1704bfc31c474bfedda8eb371c99731822
+    digest: 45611df058406f2b4e4e9cebd6776eb129f016b67217663dca6994ee1ae293cf
     name: nordmart-review
     type: application
     urls:
@@ -12334,9 +12334,9 @@ entries:
   postgres-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T08:57:16.329229416Z"
+    created: "2022-09-14T19:25:01.645165118Z"
     description: A Helm chart for Kubernetes
-    digest: b70fedc584dc4726ad02a9c6532cf289cf27d62016fd2f94bbb24af76295cd15
+    digest: f568d07a812381cd9b214cfbf2c4f83bb60fc273a22f2ebd5aaf56c938008e27
     name: postgres-instance
     type: application
     urls:
@@ -12365,9 +12365,9 @@ entries:
   postgres-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T08:57:16.330342338Z"
+    created: "2022-09-14T19:25:01.646557668Z"
     description: A Helm chart for Kubernetes
-    digest: b7db4f0670faac57770889273488fd17741903ac69c6febd4c6ca1e230fbe33f
+    digest: c82214354353e0403bd27e30a555e33e79aa7fc63ecae1a023dcb9156cc9cf55
     name: postgres-observability
     type: application
     urls:
@@ -13468,9 +13468,9 @@ entries:
   rabbitmq-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T08:57:16.332531379Z"
+    created: "2022-09-14T19:25:01.649075059Z"
     description: A Helm chart for Kubernetes
-    digest: cfd9d3618bb600b2b518d347d8a578ed6abb6b1a580f7f9300f055f5046890f5
+    digest: f15603d7c8d8e34d09779eff73b4b3fd905175fe3785ceb3ca73a056cb0f18b3
     name: rabbitmq-observability
     type: application
     urls:
@@ -13737,9 +13737,9 @@ entries:
   redis-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T08:57:16.333046589Z"
+    created: "2022-09-14T19:25:01.650715318Z"
     description: A Helm chart for Kubernetes to monitor the redis
-    digest: 922940f29dd097467c353dd46269beb6cd0a41f3c138900e6a9755a0ab3e7137
+    digest: bfe243cb4762f2d44f3a92a87b1b2e6cc6414f6ad5842c4822614fc43a24d007
     name: redis-observability
     type: application
     urls:
@@ -17218,6 +17218,16 @@ entries:
     - https://stakater.github.io/stakater-charts/servicemonitors-0.0.1.tgz
     version: 0.0.1
   signport-observability:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-09-14T19:25:01.651475246Z"
+    description: A Helm chart for Kubernetes
+    digest: 1b41a77c586381028c36bf64537e14972eb2972d0159832c7e62edba3fcad852
+    name: signport-observability
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/signport-observability-0.0.2.tgz
+    version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
     created: "2022-09-14T08:57:16.33418361Z"
@@ -21614,4 +21624,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-14T16:57:19.471933096Z"
+generated: "2022-09-14T19:25:01.630004671Z"
