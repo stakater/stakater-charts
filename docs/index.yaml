@@ -20304,6 +20304,16 @@ entries:
     version: 0.0.1
   workshop-exercise:
   - apiVersion: v2
+    appVersion: 0.0.114
+    created: "2022-09-21T19:21:54.282672841Z"
+    description: A Helm chart for Kubernetes
+    digest: e4266dbdd2c07772a74dd668eed57a29a16a3ef3674fb9d3783786b70134edc8
+    name: workshop-exercise
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/workshop-exercise-0.0.114.tgz
+    version: 0.0.114
+  - apiVersion: v2
     appVersion: 0.0.113
     created: "2022-09-21T19:08:21.018942786Z"
     description: A Helm chart for Kubernetes
@@ -22607,4 +22617,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-21T19:09:08.37400846Z"
+generated: "2022-09-21T19:21:54.281353335Z"
