@@ -211,6 +211,22 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/alertmanager-1.0.2.tgz
     version: 1.0.2
+  allure:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T20:05:54.483173003Z"
+    dependencies:
+    - alias: allure
+      name: allure-testops
+      repository: https://dl.qameta.io/artifactory/helm
+      version: 4.6.4
+    description: A Helm chart for Kubernetes
+    digest: cc6cdfbbd009ab05872ed2ef5b5b2335f1f46842239474920d50deee9d09b677
+    name: allure
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/allure-0.1.1.tgz
+    version: 0.1.1
   application:
   - apiVersion: v1
     created: "2022-09-19T13:37:41.929926432Z"
@@ -9995,9 +10011,9 @@ entries:
   jvm-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T10:52:13.696783776Z"
+    created: "2022-09-22T20:05:54.48434862Z"
     description: A Helm chart for Kubernetes showing Java Observability
-    digest: 0e10271f8700cee9b97628748ee3e609f851d480b35b7e7f187bcdaeb2d112cb
+    digest: e8adeabf8d1742e9a275f7e39148663932884325c16b4ab06bc07b6708fada9b
     name: jvm-observability
     type: application
     urls:
@@ -11328,13 +11344,13 @@ entries:
   matomo:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-09-22T10:52:13.704040826Z"
+    created: "2022-09-22T20:05:54.505468724Z"
     dependencies:
     - name: matomo
       repository: https://charts.bitnami.com/bitnami
       version: 0.2.6
     description: A Helm chart for Kubernetes
-    digest: 43af7aff0cd60635dfaa49253b7feb653aacea44d7f4872aa797a51c1ae622aa
+    digest: 6fc3c4726b6f042e8ccab63e24ed931bd2de3efe2c4c046fef58906507ea785e
     name: matomo
     type: application
     urls:
@@ -11357,7 +11373,7 @@ entries:
   mattermost-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T10:52:13.705895439Z"
+    created: "2022-09-22T20:05:54.506811343Z"
     dependencies:
     - condition: postgres-instance.enabled
       name: postgres-instance
@@ -11368,7 +11384,7 @@ entries:
       repository: https://stakater.github.io/stakater-charts
       version: 0.1.4
     description: A Helm chart for Kubernetes
-    digest: 2f6df99dcf919e1ddc13c049fb8a3a4563a2e57fb367ef7ff0770302bfc454e0
+    digest: 17750b640f54d521e698ceac20cd369ef27b19ff9d1eb46bb99de40db3be004f
     name: mattermost-instance
     type: application
     urls:
@@ -11630,9 +11646,9 @@ entries:
   minio:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T10:52:13.706283042Z"
+    created: "2022-09-22T20:05:54.50728975Z"
     description: A Helm chart for Kubernetes
-    digest: 2cfb4f9c8ef59f09210b733cbe8aa0d6b9f625a94e8c05189dca2fe3dadb7ef2
+    digest: 4d242bb2beab3051a255b2a127f7637bae28ed07c0cef90b66e5dd2e6cf82512
     name: minio
     type: application
     urls:
@@ -11944,7 +11960,7 @@ entries:
   nordmart-review:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T10:52:13.714439998Z"
+    created: "2022-09-22T20:05:54.515191564Z"
     dependencies:
     - name: mongodb
       repository: https://raw.githubusercontent.com/bitnami/charts/defb094c658024e4aa8245622dab202874880cbc/bitnami
@@ -11958,7 +11974,7 @@ entries:
       repository: https://stakater.github.io/stakater-charts
       version: 1.1.14
     description: Chart for deploying nordmart review, nordmart review ui and mongodb
-    digest: 3f6f41a2e65db90d1ccdf5c87b935fb022e4ecf755c22ec488a0630a3ff688e4
+    digest: 8f12cf3ed87622456ea2529104197c26fb81d20e437a946867afa10132be8b21
     name: nordmart-review
     type: application
     urls:
@@ -12568,9 +12584,9 @@ entries:
   postgres-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T10:52:13.7147651Z"
+    created: "2022-09-22T20:05:54.517375995Z"
     description: A Helm chart for Kubernetes
-    digest: 20f369e0f3caf5d4e4708db654298f7b4d0cfebec848d8088257beaeda9b88f9
+    digest: 0b64ca66a81b61e99ce538a01c4a2716213bac9e839cc7c24a94384b7df33e75
     name: postgres-instance
     type: application
     urls:
@@ -12639,9 +12655,9 @@ entries:
   postgres-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T10:52:13.715782807Z"
+    created: "2022-09-22T20:05:54.518934518Z"
     description: A Helm chart for Kubernetes
-    digest: 059de881c3bf9aa337302771347b9c48ff453495529183932a04daa6ca7e2b55
+    digest: 6e44dcb5c65583c7ba7abd9ce32d6d43fdc6041441bc06473dd1c7a05c5deec5
     name: postgres-observability
     type: application
     urls:
@@ -13742,9 +13758,9 @@ entries:
   rabbitmq-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T10:52:13.71920533Z"
+    created: "2022-09-22T20:05:54.521468754Z"
     description: A Helm chart for Kubernetes
-    digest: dad93adc5c75c186d88588a1f20a3c91c5c8c003dc0a33b75a958c7b62927cd7
+    digest: 5fd5b6e3117fd87f78fd81ab45a860ba2fc3bf95d741a325f410aebe8dc02096
     name: rabbitmq-observability
     type: application
     urls:
@@ -14011,9 +14027,9 @@ entries:
   redis-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T10:52:13.719719134Z"
+    created: "2022-09-22T20:05:54.523736087Z"
     description: A Helm chart for Kubernetes to monitor the redis
-    digest: 33341b25f761adc50847090f5003702e5ab0871c05492f17f6725dc38652d46a
+    digest: 785e83c69cb8fe3f59ab707200d9552ed915fdb907b5bc182cb3f4a0e41d0252
     name: redis-observability
     type: application
     urls:
@@ -17527,9 +17543,9 @@ entries:
   signport-observability:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-09-22T10:52:13.720434139Z"
+    created: "2022-09-22T20:05:54.524472697Z"
     description: A Helm chart for Kubernetes
-    digest: 53a1cd139218a95d6d2847ac624f9f8e5c2dd77bb0ef93ac66c693a82535daed
+    digest: 5963996320f89e21d563d8e46f4f60f9cdf990aa0f396d321a1ad5f5f62103fe
     name: signport-observability
     type: application
     urls:
@@ -22931,4 +22947,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-22T11:57:36.697155696Z"
+generated: "2022-09-22T20:05:54.439331973Z"
