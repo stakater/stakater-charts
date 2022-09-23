@@ -214,14 +214,14 @@ entries:
   allure:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T20:05:54.483173003Z"
+    created: "2022-09-23T14:57:01.621481765Z"
     dependencies:
     - alias: allure
       name: allure-testops
       repository: https://dl.qameta.io/artifactory/helm
       version: 4.6.4
     description: A Helm chart for Kubernetes
-    digest: cc6cdfbbd009ab05872ed2ef5b5b2335f1f46842239474920d50deee9d09b677
+    digest: c32a57368655ced3c9941f14e9096e0bb09e6492a0ac7358e8c7d79b708bc5d8
     name: allure
     type: application
     urls:
@@ -10031,9 +10031,9 @@ entries:
   jvm-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T20:05:54.48434862Z"
+    created: "2022-09-23T14:57:01.622613885Z"
     description: A Helm chart for Kubernetes showing Java Observability
-    digest: e8adeabf8d1742e9a275f7e39148663932884325c16b4ab06bc07b6708fada9b
+    digest: 989eb3154e0fb78f76cd9c8c07f16d857d0669e8de773174808add7fbf236831
     name: jvm-observability
     type: application
     urls:
@@ -11364,6 +11364,20 @@ entries:
   matomo:
   - apiVersion: v2
     appVersion: 0.0.1
+    created: "2022-09-23T14:57:01.629987312Z"
+    dependencies:
+    - name: matomo
+      repository: https://charts.bitnami.com/bitnami
+      version: 0.2.6
+    description: A Helm chart for Kubernetes
+    digest: bd4a4e746c1e2e5c603326571fe91efb3d2d1a4eca18a57fd7ab46a3304b59dd
+    name: matomo
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/matomo-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
+    appVersion: 0.0.1
     created: "2022-09-22T20:05:54.505468724Z"
     dependencies:
     - name: matomo
@@ -11393,7 +11407,7 @@ entries:
   mattermost-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T20:05:54.506811343Z"
+    created: "2022-09-23T14:57:01.631280734Z"
     dependencies:
     - condition: postgres-instance.enabled
       name: postgres-instance
@@ -11404,7 +11418,7 @@ entries:
       repository: https://stakater.github.io/stakater-charts
       version: 0.1.4
     description: A Helm chart for Kubernetes
-    digest: 17750b640f54d521e698ceac20cd369ef27b19ff9d1eb46bb99de40db3be004f
+    digest: 0c430a1552e514fabd89edbec993b0ac0226ef03f06875159dfdbf422d9581af
     name: mattermost-instance
     type: application
     urls:
@@ -11666,9 +11680,9 @@ entries:
   minio:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T20:05:54.50728975Z"
+    created: "2022-09-23T14:57:01.631694741Z"
     description: A Helm chart for Kubernetes
-    digest: 4d242bb2beab3051a255b2a127f7637bae28ed07c0cef90b66e5dd2e6cf82512
+    digest: d9f39f3a84a7c6865ee778eff06a7711cede190c782e579c3888ac8f22c8e3f8
     name: minio
     type: application
     urls:
@@ -11980,7 +11994,7 @@ entries:
   nordmart-review:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T20:05:54.515191564Z"
+    created: "2022-09-23T14:57:01.642191222Z"
     dependencies:
     - name: mongodb
       repository: https://raw.githubusercontent.com/bitnami/charts/defb094c658024e4aa8245622dab202874880cbc/bitnami
@@ -11994,7 +12008,7 @@ entries:
       repository: https://stakater.github.io/stakater-charts
       version: 1.1.14
     description: Chart for deploying nordmart review, nordmart review ui and mongodb
-    digest: 8f12cf3ed87622456ea2529104197c26fb81d20e437a946867afa10132be8b21
+    digest: b9e1e9eba6bbed4230027004a73fd80ffc535e62d73fe8bc8dd38edf42ef1fd4
     name: nordmart-review
     type: application
     urls:
@@ -12604,9 +12618,9 @@ entries:
   postgres-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T20:05:54.517375995Z"
+    created: "2022-09-23T14:57:01.642561828Z"
     description: A Helm chart for Kubernetes
-    digest: 0b64ca66a81b61e99ce538a01c4a2716213bac9e839cc7c24a94384b7df33e75
+    digest: b727336f6e92ced2930528aef10f3e5bf7b7a282f6a411866e30530603add17d
     name: postgres-instance
     type: application
     urls:
@@ -12675,9 +12689,9 @@ entries:
   postgres-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T20:05:54.518934518Z"
+    created: "2022-09-23T14:57:01.643658347Z"
     description: A Helm chart for Kubernetes
-    digest: 6e44dcb5c65583c7ba7abd9ce32d6d43fdc6041441bc06473dd1c7a05c5deec5
+    digest: 1f0b4624806f737712d83f276f73f3c752838d84518727657e03d89f8863218e
     name: postgres-observability
     type: application
     urls:
@@ -13778,9 +13792,9 @@ entries:
   rabbitmq-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T20:05:54.521468754Z"
+    created: "2022-09-23T14:57:01.646936703Z"
     description: A Helm chart for Kubernetes
-    digest: 5fd5b6e3117fd87f78fd81ab45a860ba2fc3bf95d741a325f410aebe8dc02096
+    digest: 64c0c5a0ac6d8f3f99789d1bfd1bdd571708ab798ee691ef0c6ee4209ab5761e
     name: rabbitmq-observability
     type: application
     urls:
@@ -14047,9 +14061,9 @@ entries:
   redis-observability:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-22T20:05:54.523736087Z"
+    created: "2022-09-23T14:57:01.647542614Z"
     description: A Helm chart for Kubernetes to monitor the redis
-    digest: 785e83c69cb8fe3f59ab707200d9552ed915fdb907b5bc182cb3f4a0e41d0252
+    digest: 51fcc09ba028ff66fa0f366af6658befcbeea1da67c9eff062f1e9f20b83b0d9
     name: redis-observability
     type: application
     urls:
@@ -17563,9 +17577,9 @@ entries:
   signport-observability:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-09-22T20:05:54.524472697Z"
+    created: "2022-09-23T14:57:01.648281826Z"
     description: A Helm chart for Kubernetes
-    digest: 5963996320f89e21d563d8e46f4f60f9cdf990aa0f396d321a1ad5f5f62103fe
+    digest: 7b60b77e664c92ecb5f2d95dd2ed59e2cc3212492c5e50db3d5d7202e1cb2aad
     name: signport-observability
     type: application
     urls:
@@ -23017,4 +23031,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-23T13:05:51.233259669Z"
+generated: "2022-09-23T14:57:01.599291584Z"
