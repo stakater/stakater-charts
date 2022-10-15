@@ -18354,6 +18354,16 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/splunk-operator-0.0.2.tgz
     version: 0.0.2
+  stakater-tekton-chart:
+  - apiVersion: v2
+    created: "2022-10-15T18:08:00.320612266Z"
+    description: A Helm chart for creating Tekton Resources Pipelines, Trigger Templates,
+      Event Listeners and Trigger Bindings
+    digest: c127265ce02c1c10e8d882b413cac1549f327e5b0a622994678c49b9e9d72da6
+    name: stakater-tekton-chart
+    urls:
+    - https://stakater.github.io/stakater-charts/stakater-tekton-chart-0.0.37.tgz
+    version: 0.0.37
   storage:
   - apiVersion: v1
     appVersion: 1.0.0
@@ -24169,4 +24179,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-10-14T14:17:27.09288449Z"
+generated: "2022-10-15T18:08:00.318808593Z"
