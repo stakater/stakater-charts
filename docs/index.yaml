@@ -19049,6 +19049,16 @@ entries:
   stakater-create-git-tag:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-11-16T12:41:49.573530894Z"
+    description: A Helm chart for Tekton Clustertask
+    digest: 54fcc1a4ed4c8fc1f00b9323da874b30cf602e7505708a49992849d67fc20aee
+    name: stakater-create-git-tag
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/stakater-create-git-tag-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-11-16T12:41:00.8681125Z"
     description: A Helm chart for Tekton Clustertask
     digest: 22e1ee4b53b375918fcf6c63664d70583c536a5c489d4ee6f870dde2d65d8b93
@@ -25038,4 +25048,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-11-16T12:41:00.867327502Z"
+generated: "2022-11-16T12:41:49.572197073Z"
