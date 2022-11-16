@@ -19046,6 +19046,17 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/splunk-operator-0.0.2.tgz
     version: 0.0.2
+  stakater-create-git-tag:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-16T12:41:00.8681125Z"
+    description: A Helm chart for Tekton Clustertask
+    digest: 22e1ee4b53b375918fcf6c63664d70583c536a5c489d4ee6f870dde2d65d8b93
+    name: stakater-create-git-tag
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/stakater-create-git-tag-1.0.1.tgz
+    version: 1.0.1
   stakater-tekton-chart:
   - apiVersion: v2
     created: "2022-11-15T09:14:57.976218939Z"
@@ -25027,4 +25038,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-11-16T11:27:10.604861935Z"
+generated: "2022-11-16T12:41:00.867327502Z"
