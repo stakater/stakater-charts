@@ -22064,9 +22064,9 @@ entries:
   vault:
   - apiVersion: v2
     appVersion: 1.8.4
-    created: "2022-12-09T11:23:49.089933891Z"
+    created: "2022-12-09T11:25:13.530030352Z"
     description: Official HashiCorp Vault Chart
-    digest: d7483ca82bb189fbb8d8040fdd12d321e7e2202421d3bb5233992e1a1c6df85c
+    digest: 742f6d4b5383390ec807c3a902f484e60ef5a5e7182e9900638b17eeb2783368
     keywords:
     - vault
     - security
@@ -25765,4 +25765,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-12-09T11:23:49.085868357Z"
+generated: "2022-12-09T11:25:13.527496114Z"
