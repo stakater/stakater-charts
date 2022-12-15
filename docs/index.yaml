@@ -19401,9 +19401,9 @@ entries:
   stakater-buildah:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-14T13:42:14.805241285Z"
+    created: "2022-12-15T09:09:20.428203705Z"
     description: A Helm chart for Tekton Clustertask
-    digest: 00aeb64f77fc6f6c645a4f25998b5d40a587cdc4b597f3b71b506e2be2f949ea
+    digest: a37d74a793ab16d8fbe9b3f8661d5ce158605fe98a8a1a4ddbf5d34c41b6a492
     name: stakater-buildah
     type: application
     urls:
@@ -19412,9 +19412,9 @@ entries:
   stakater-comment-on-pr:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-12-14T13:42:14.805615286Z"
+    created: "2022-12-15T09:09:20.428526803Z"
     description: tekton task for commenting pipeline status on application repo
-    digest: 1437076444635db7cc5490e94b414bdd581434af1d68290981b87e39e1ea1262
+    digest: a7ab47d53e4889f8de6ac2f872b556f1bc2fc51981f32b2f327e42a5e9b4b6de
     name: stakater-comment-on-pr
     type: application
     urls:
@@ -19431,6 +19431,16 @@ entries:
     - https://stakater.github.io/stakater-charts/stakater-comment-on-pr-1.0.1.tgz
     version: 1.0.1
   stakater-create-environment:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-12-15T09:09:20.428946702Z"
+    description: A Helm chart for create environment cluster task
+    digest: 277d737ea28149d7644af025f9aec1f4dab042743cd30e038e84919192a1b627
+    name: stakater-create-environment
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/stakater-create-environment-1.0.3.tgz
+    version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.0
     created: "2022-12-14T13:42:14.806098788Z"
@@ -19454,9 +19464,9 @@ entries:
   stakater-create-git-tag:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-14T13:42:14.807114492Z"
+    created: "2022-12-15T09:09:20.4292787Z"
     description: A Helm chart for Tekton Clustertask
-    digest: 423e0f5778de59f90f0de1622e60ab5e94e0b1e10db42666670b3f40aff60ba8
+    digest: 9bbd708d5f06d79b210ae445f8e885816fd2f90dafe3b7549b61c788175f7dd6
     name: stakater-create-git-tag
     type: application
     urls:
@@ -19535,9 +19545,9 @@ entries:
   stakater-github-update-cd-repo:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-12-14T13:42:14.807539094Z"
+    created: "2022-12-15T09:09:20.429585399Z"
     description: tekton clustertask for pushing helm chart to helm repo
-    digest: 9c99363d3466d302214b5a27cf8d74229ce3842f60758733ec918038f1285c5b
+    digest: 73076e3b115aaa8d4cb2e73d6b75bd91107c37218f78c8ee0f4608e87c94cc08
     name: stakater-github-update-cd-repo
     type: application
     urls:
@@ -19616,9 +19626,9 @@ entries:
   stakater-gitlab-update-cd-repo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-14T13:42:14.807929395Z"
+    created: "2022-12-15T09:09:20.429864897Z"
     description: tekton clustertask for pushing helm chart to helm repo
-    digest: d2df973ddaa986ee858514a37b2d56d7d65f9d000e47b93c3894bec59d553e0f
+    digest: a06a2a745c9241d3397a76aad56f6b656f2b6862502991c305438ce052e7a7ce
     name: stakater-gitlab-update-cd-repo
     type: application
     urls:
@@ -19637,9 +19647,9 @@ entries:
   stakater-helm-push:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-14T13:42:14.808197696Z"
+    created: "2022-12-15T09:09:20.430108796Z"
     description: tekton clustertask for pushing helm chart to helm repo
-    digest: ea05c6b4774955cfcbe9f493906666eedc6b9f873d96393320db5337b1757d6b
+    digest: 9969a033ced63ea7b43d037891f0d7e1f88255afbbfc608023da9da3945defaf
     name: stakater-helm-push
     type: application
     urls:
@@ -19648,9 +19658,9 @@ entries:
   stakater-push-main-tag:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-14T13:42:14.808538898Z"
+    created: "2022-12-15T09:09:20.430408395Z"
     description: tekton clustertask for pushing tag to application repo
-    digest: 7312ebe3822c5baf3370256eb1a428057d3920fc23e94869d058f3f82748d531
+    digest: 914678c6c2dfb0de4fad8aad7fc1fbd9c4fb603ab1340380a006a39bf7cb217b
     name: stakater-push-main-tag
     type: application
     urls:
@@ -20004,9 +20014,9 @@ entries:
   stakater-validate-environment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-14T13:42:14.808890199Z"
+    created: "2022-12-15T09:09:20.430868893Z"
     description: tekton clustertask for pushing tag to application repo
-    digest: 58d78257a7f5ade1316de4496f0c03bd7a07dcd0492e5f625ee62b0a3c9c7f36
+    digest: d8c0c2d4c67acb38e02cd72324924bc57b8f177ed9be01bc7ad502adff867a52
     name: stakater-validate-environment
     type: application
     urls:
@@ -25869,4 +25879,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-12-14T13:42:14.803681979Z"
+generated: "2022-12-15T09:09:20.427733107Z"
