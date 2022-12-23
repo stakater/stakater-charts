@@ -19439,9 +19439,9 @@ entries:
   stakater-buildah:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-23T15:58:09.270160891Z"
+    created: "2022-12-23T16:13:50.756583508Z"
     description: A Helm chart for Tekton Clustertask
-    digest: 975a47ff6d96db9f7607837f8c73b7e7e873b0319766da7a9a4bea39277e92c4
+    digest: 13c6eef08cf42df45b04873b891a03160db282e4cf2795a053f7c43da506ec23
     name: stakater-buildah
     type: application
     urls:
@@ -19477,12 +19477,23 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/stakater-buildah-1.0.1.tgz
     version: 1.0.1
+  stakater-checkov-scan:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-12-23T16:13:50.756920914Z"
+    description: tekton clustertask for checkov scan
+    digest: 68d111d45338f5b56c24ed53e0799522aa2a9e13a93f2c731596b4846327c852
+    name: stakater-checkov-scan
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/stakater-checkov-scan-1.0.1.tgz
+    version: 1.0.1
   stakater-comment-on-pr:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-12-23T15:58:09.27044519Z"
+    created: "2022-12-23T16:13:50.757115618Z"
     description: tekton task for commenting pipeline status on application repo
-    digest: fb232ad5668e580e7514bdb03e3a342eb22d906c2e5c16c30200367a28a1bb1b
+    digest: de0a090e2c58e046da84054748293d91cf6c67d7448a7c571af566b39bd35fff
     name: stakater-comment-on-pr
     type: application
     urls:
@@ -19501,9 +19512,9 @@ entries:
   stakater-create-environment:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-12-23T15:58:09.27090099Z"
+    created: "2022-12-23T16:13:50.757343722Z"
     description: A Helm chart for create environment cluster task
-    digest: fdd1ef1fe0b4d60df117db1ca9b60f8a1446a9cecd245e2097ea2510b35b0649
+    digest: f140d21869465346d1e280d438fb12a420d476313285da2e809bd97bb68bb53e
     name: stakater-create-environment
     type: application
     urls:
@@ -19532,9 +19543,9 @@ entries:
   stakater-create-git-tag:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-23T15:58:09.271241389Z"
+    created: "2022-12-23T16:13:50.757549025Z"
     description: A Helm chart for Tekton Clustertask
-    digest: 20c35e834cb297ab8a8b665e62a9ca102094ebc5fccf3e14b0304f81d72f7293
+    digest: 7f91d28c3159067bad2752665ab0f0c42e1c8df26636d02c8b08b480f43fd0e0
     name: stakater-create-git-tag
     type: application
     urls:
@@ -19613,9 +19624,9 @@ entries:
   stakater-github-update-cd-repo:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-12-23T15:58:09.271737688Z"
+    created: "2022-12-23T16:13:50.758092935Z"
     description: tekton clustertask for pushing helm chart to helm repo
-    digest: aff49f514d911eb2a3cabb67984b690f3919dcace9f067e4f37ddb37cbac8c8d
+    digest: c54828254a7d1b280f5c27d7dbe05c545113d6daa45f00093c07e4155ec20381
     name: stakater-github-update-cd-repo
     type: application
     urls:
@@ -19694,9 +19705,9 @@ entries:
   stakater-gitlab-update-cd-repo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-23T15:58:09.271969888Z"
+    created: "2022-12-23T16:13:50.758312939Z"
     description: tekton clustertask for pushing helm chart to helm repo
-    digest: 02ac2156d7a198c715e996e9b8d017ba2e9b1cd80b8c4dd38bcd9193b3a8e3c1
+    digest: c1ad4790e9d6dc53f1d7e7a19832d047763ecf8a7f0ea7e70b840bd95a80cf1b
     name: stakater-gitlab-update-cd-repo
     type: application
     urls:
@@ -19715,9 +19726,9 @@ entries:
   stakater-helm-push:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-23T15:58:09.272151988Z"
+    created: "2022-12-23T16:13:50.758523143Z"
     description: tekton clustertask for pushing helm chart to helm repo
-    digest: 9b771a15243973c1f10ec859cb340aed091de488207b7877f98eabea76f53d06
+    digest: 338750b03288dfd64b4fda4f5f44b1e5f7626165d9201263c369a0a4edf8e76c
     name: stakater-helm-push
     type: application
     urls:
@@ -19726,9 +19737,9 @@ entries:
   stakater-notify-slack:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-12-23T15:58:09.272327087Z"
+    created: "2022-12-23T16:13:50.758707246Z"
     description: tekton clustertask for notifying slack channel
-    digest: 1e5cb33db0bd0db320fc62d2c46c5e9ee0addabe076966a21eb3a404d1907b3a
+    digest: 7025cfa72d321b5e00895d973327785ff9d42c5252d9648d327fe1c16762d5a0
     name: stakater-notify-slack
     type: application
     urls:
@@ -19737,9 +19748,9 @@ entries:
   stakater-push-main-tag:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-23T15:58:09.272503187Z"
+    created: "2022-12-23T16:13:50.758895849Z"
     description: tekton clustertask for pushing tag to application repo
-    digest: ef9b1670771b6dc35427b6a4b29599bf24d30bc279a42e6285ac8b83830442ea
+    digest: 4e54fd2b26f4bb24c9b5de4ce509bdb0e2b58d21897d5c45dcdf7a50e6404157
     name: stakater-push-main-tag
     type: application
     urls:
@@ -19798,9 +19809,9 @@ entries:
   stakater-sonarqube-scanner:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-12-23T15:58:09.272670687Z"
+    created: "2022-12-23T16:13:50.759070052Z"
     description: A Helm chart for Tekton Clustertask
-    digest: 8ee8149b39a7834cfed7502a40faf6840ca413210a6c45f277653c2d103d554f
+    digest: cec6a6018350930a37fdb2a81d091fb36f857b2a505808b876f4b04324e07769
     name: stakater-sonarqube-scanner
     type: application
     urls:
@@ -20171,9 +20182,9 @@ entries:
   stakater-validate-environment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-23T15:58:09.272866487Z"
+    created: "2022-12-23T16:13:50.759293956Z"
     description: tekton clustertask for pushing tag to application repo
-    digest: f409af4c56333921fcf80069f63a3d4fc09f222996f9da4e55c610a59304cb50
+    digest: 6ceffd1d600a4da7a25a58b1c64c15c112d0240be6bfc2dc84949b021b0db14d
     name: stakater-validate-environment
     type: application
     urls:
@@ -26056,4 +26067,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-12-23T15:58:09.269542392Z"
+generated: "2022-12-23T16:13:50.7560847Z"
