@@ -20220,6 +20220,26 @@ entries:
     version: 0.0.37
   stakater-tenant-operator:
   - apiVersion: v2
+    appVersion: 0.7.13
+    created: "2022-12-30T11:40:49.928304701Z"
+    description: A Helm chart for Tenant-Operator
+    digest: 78bc63f4b64fc7a74fdb0cdfd40e8b5f5061750f49ffcc5e69817d73a893c0aa
+    icon: https://avatars1.githubusercontent.com/u/15930712?s=280&v=4
+    keywords:
+    - stakater
+    - sro
+    - tenant-operator
+    maintainers:
+    - email: hello@stakater.com
+      name: stakater
+    name: stakater-tenant-operator
+    sources:
+    - https://github.com/stakater-ab/tenant-operator
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/stakater-tenant-operator-0.7.13.tgz
+    version: 0.7.13
+  - apiVersion: v2
     appVersion: 0.7.12
     created: "2022-12-30T09:13:55.309733072Z"
     description: A Helm chart for Tenant-Operator
@@ -26347,4 +26367,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2022-12-30T09:13:55.307899051Z"
+generated: "2022-12-30T11:40:49.926704097Z"
