@@ -22666,6 +22666,28 @@ entries:
   vault:
   - apiVersion: v2
     appVersion: 1.8.4
+    created: "2023-01-02T13:00:35.003724944Z"
+    description: stakater chart for vault , forked from official hashicorp/vault-helm
+    digest: f1417a3eda9ec2642d389d68d4c41b8815e5f398c7be85219e602e647b4ee70d
+    keywords:
+    - vault
+    - security
+    - encryption
+    - secrets
+    - management
+    - automation
+    - infrastructure
+    name: vault
+    sources:
+    - https://github.com/hashicorp/vault
+    - https://github.com/hashicorp/vault-helm
+    - https://github.com/hashicorp/vault-k8s
+    - https://github.com/hashicorp/vault-csi-provider
+    urls:
+    - https://stakater.github.io/stakater-charts/vault-0.8.4.tgz
+    version: 0.8.4
+  - apiVersion: v2
+    appVersion: 1.8.4
     created: "2023-01-02T12:59:00.816016985Z"
     description: stakater chart for vault , forked from hashicorp/vault-helm
     digest: 58749d7a0bad605df157befb7197bd848b3d7eddae113f6443c4fdac2fedf27d
@@ -26367,4 +26389,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2023-01-02T12:59:00.811999767Z"
+generated: "2023-01-02T13:00:35.000240156Z"
