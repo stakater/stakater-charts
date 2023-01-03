@@ -20221,9 +20221,9 @@ entries:
   stakater-tenant-operator:
   - apiVersion: v2
     appVersion: 0.7.13
-    created: "2023-01-03T11:30:55.20929924Z"
+    created: "2023-01-03T12:02:56.382484523Z"
     description: A Helm chart for Tenant-Operator
-    digest: f17da56cbf5d5b34d8eb27f9d9263c0ef25b0212bf4a3bba418021165b291f81
+    digest: c56751718b343f2b5d942bfa63693611f4ff8ef76cfa0da27483ea7b9b057051
     icon: https://avatars1.githubusercontent.com/u/15930712?s=280&v=4
     keywords:
     - stakater
@@ -26389,4 +26389,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2023-01-03T11:30:55.207557793Z"
+generated: "2023-01-03T12:02:56.381126019Z"
