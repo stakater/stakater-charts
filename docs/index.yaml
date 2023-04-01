@@ -238,6 +238,27 @@ entries:
     - https://stakater.github.io/stakater-charts/allure-0.1.1.tgz
     version: 0.1.1
   application:
+  - apiVersion: v2
+    created: "2023-04-01T11:18:59.382800867Z"
+    description: Generic helm chart for all kind of applications
+    digest: 42a70929ac152fccc7095b865d3eccb958949b72b3d501ce0b18592068236331
+    home: https://github.com/stakater/application
+    icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
+    keywords:
+    - java
+    - node
+    - dotnet
+    - kubernetes
+    - stakater
+    - application
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    name: application
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/application-2.1.10.tgz
+    version: 2.1.10
   - apiVersion: v1
     created: "2023-03-30T11:16:18.902165619Z"
     description: Generic helm chart for all kind of applications
@@ -27824,4 +27845,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2023-03-30T19:19:35.398361391Z"
+generated: "2023-04-01T11:18:59.379042006Z"
