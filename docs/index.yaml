@@ -239,6 +239,27 @@ entries:
     version: 0.1.1
   application:
   - apiVersion: v2
+    created: "2023-12-27T13:07:44.128118234Z"
+    description: Generic helm chart for all kind of applications
+    digest: 27304c7f940b84f57b4dab341ac0ad08fdc987beac40e24b05c02cc775f8c041
+    home: https://github.com/stakater/application
+    icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
+    keywords:
+    - java
+    - node
+    - dotnet
+    - kubernetes
+    - stakater
+    - application
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    name: application
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/application-2.3.0.tgz
+    version: 2.3.0
+  - apiVersion: v2
     created: "2023-12-13T10:32:37.10647885Z"
     description: Generic helm chart for all kind of applications
     digest: e6411dba5fc96177080a423f54de2be742a52f57bb9dc71fe508353b3c083e99
@@ -30031,4 +30052,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2023-12-27T10:34:05.852223035Z"
+generated: "2023-12-27T13:07:44.126321579Z"
