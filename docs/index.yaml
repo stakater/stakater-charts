@@ -8363,6 +8363,25 @@ entries:
     version: 0.0.2
   ingressmonitorcontroller:
   - apiVersion: v2
+    appVersion: 2.1.48
+    created: "2023-12-27T10:34:05.85375469Z"
+    description: IngressMonitorController Operator chart that runs on kubernetes
+    digest: 43fdf79632f3efeb035d3e6c8158513a706c030dd5b217d824b9507ee087d6b6
+    home: https://github.com/stakater/IngressMonitorController
+    icon: https://raw.githubusercontent.com/stakater/IngressMonitorController/master/assets/web/IMC-round-100px.png
+    keywords:
+    - IngressMonitorController
+    - IngressMonitorController Operator
+    - kubernetes
+    - Ingress
+    - Route
+    name: ingressmonitorcontroller
+    sources:
+    - https://github.com/stakater/IngressMonitorController
+    urls:
+    - https://stakater.github.io/stakater-charts/ingressmonitorcontroller-2.1.48.tgz
+    version: 2.1.48
+  - apiVersion: v2
     appVersion: 2.1.47
     created: "2023-12-27T09:25:08.71239027Z"
     description: IngressMonitorController Operator chart that runs on kubernetes
@@ -30012,4 +30031,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2023-12-27T10:24:21.050001935Z"
+generated: "2023-12-27T10:34:05.852223035Z"
