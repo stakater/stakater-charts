@@ -17383,6 +17383,29 @@ entries:
     version: 0.0.1
   reloader:
   - apiVersion: v1
+    appVersion: v1.0.73
+    created: "2024-04-03T08:13:04.671921813Z"
+    description: Reloader chart that runs on kubernetes
+    digest: c98fb2c03aefc5961d334aafb08f2502d77da156b290d5720f6744d544891028
+    home: https://github.com/stakater/Reloader
+    icon: https://raw.githubusercontent.com/stakater/Reloader/master/assets/web/reloader-round-100px.png
+    keywords:
+    - Reloader
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    - email: rasheed@stakater.com
+      name: rasheedamir
+    - email: faizan.ahmad55@outlook.com
+      name: faizanahmad055
+    name: reloader
+    sources:
+    - https://github.com/stakater/Reloader
+    urls:
+    - https://stakater.github.io/stakater-charts/reloader-1.0.73.tgz
+    version: 1.0.73
+  - apiVersion: v1
     appVersion: v1.0.72
     created: "2024-03-27T09:09:53.409388463Z"
     description: Reloader chart that runs on kubernetes
@@ -30723,4 +30746,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2024-03-28T23:48:15.668066177Z"
+generated: "2024-04-03T08:13:04.670927325Z"
