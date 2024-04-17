@@ -239,27 +239,6 @@ entries:
     version: 0.1.1
   application:
   - apiVersion: v2
-    created: "2024-03-17T17:53:58.553955763Z"
-    description: Generic helm chart for all kind of applications
-    digest: 3d7851b5e5bbadac97a736513e978a303d23a4b9554982228dc267eb90ab06e6
-    home: https://github.com/stakater/application
-    icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
-    keywords:
-    - java
-    - node
-    - dotnet
-    - kubernetes
-    - stakater
-    - application
-    maintainers:
-    - email: hello@stakater.com
-      name: Stakater
-    name: application
-    type: application
-    urls:
-    - https://stakater.github.io/stakater-charts/application-4.0.0.tgz
-    version: 4.0.0
-  - apiVersion: v2
     created: "2024-03-17T22:59:38.802665565Z"
     description: Generic helm chart for all kind of applications
     digest: 1dc2260867422fd0017948844fffef29fb560e0629f2ebbda70c20b784152d18
