@@ -17449,9 +17449,9 @@ entries:
   reloader:
   - apiVersion: v1
     appVersion: v1.0.88
-    created: "2024-04-26T20:00:24.679704395Z"
+    created: "2024-04-26T20:24:12.549631989Z"
     description: Reloader chart that runs on kubernetes
-    digest: bf595b3d1da21faaf580f6d54f5604d13ef76a98415bb3dbc982f77a68784e14
+    digest: 2581ad262c67e5b4ee6f4037c75bbc398275b0b6ce9ae1c62c370cb70278226c
     home: https://github.com/stakater/Reloader
     icon: https://raw.githubusercontent.com/stakater/Reloader/master/assets/web/reloader-round-100px.png
     keywords:
@@ -31133,4 +31133,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2024-04-26T20:00:24.678689811Z"
+generated: "2024-04-26T20:24:12.548707493Z"
