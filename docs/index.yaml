@@ -239,9 +239,9 @@ entries:
     version: 0.1.1
   application:
   - apiVersion: v2
-    created: "2024-05-09T13:33:18.940999747Z"
+    created: "2024-05-09T13:37:30.127022975Z"
     description: Generic helm chart for all kind of applications
-    digest: 9a41d0cce86a01eadfac4470547fc6569f30a60a641d5bf5270e7189a4777e39
+    digest: 90dce3a3de331948969067cc8583f80ec5af3a9ba104bdf65690f78751b6c1b0
     home: https://github.com/stakater/application
     icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
     keywords:
@@ -31296,4 +31296,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2024-05-09T13:33:18.938372235Z"
+generated: "2024-05-09T13:37:30.125106827Z"
