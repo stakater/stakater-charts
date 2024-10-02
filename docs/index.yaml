@@ -4978,6 +4978,22 @@ entries:
     version: 1.5.0
   forecastle:
   - apiVersion: v1
+    created: "2024-10-02T08:29:35.055477635Z"
+    description: forecastle chart that runs on kubernetes
+    digest: 80f2afa2e04c5530eac40eefdb27da09ff549c919fa38429e4427aa1cce04089
+    home: https://github.com/stakater/Forecastle
+    icon: https://github.com/stakater/Forecastle/raw/master/assets/web/forecastle-round-100px.png
+    keywords:
+    - forecastle
+    - kubernetes
+    maintainers:
+    - email: stakater@aurorasolutions.io
+      name: Stakater
+    name: forecastle
+    urls:
+    - https://stakater.github.io/stakater-charts/forecastle-v1.0.146.tgz
+    version: v1.0.146
+  - apiVersion: v1
     created: "2024-09-17T19:21:35.043893237Z"
     description: forecastle chart that runs on kubernetes
     digest: b33623abd4440544453fe78205d7a4026044642eb3817007ac1b4ad13ffa9cf6
@@ -32645,4 +32661,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2024-10-01T15:30:48.685766831Z"
+generated: "2024-10-02T08:29:35.054776058Z"
