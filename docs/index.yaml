@@ -13691,6 +13691,22 @@ entries:
     version: 1.1.1
   konfigurator:
   - apiVersion: v1
+    created: "2024-10-11T10:37:50.358372394Z"
+    description: Konfigurator chart that runs on kubernetes
+    digest: f289013c4aafe437c666cb179301ba1493d0f115f070dafd6216ee9ff5708803
+    home: https://github.com/stakater/konfigurator
+    icon: https://raw.githubusercontent.com/stakater/Konfigurator/master/assets/web/Konfigurator-round-100px.png
+    keywords:
+    - Konfigurator
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    name: konfigurator
+    urls:
+    - oci://ghcr.io/stakater/saap-catalog/charts/konfigurator-0.1.40.tgz
+    version: 0.1.40
+  - apiVersion: v1
     created: "2024-08-07T08:06:14.992884289Z"
     description: Konfigurator chart that runs on kubernetes
     digest: 07d383bf5c2e2a64a8aa8931ecf58d86d58997639f917e8c299dce30e71c7ac1
@@ -32680,4 +32696,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2024-10-07T09:00:11.406125923Z"
+generated: "2024-10-11T10:37:50.357855543Z"
