@@ -1,0 +1,4 @@
+# Artifact Hub repository metadata file
+owners: # (optional, used to claim repository ownership)
+  - name: stakater-user
+    email: stakater@gmail.com
