@@ -1,4 +1,5 @@
 # Artifact Hub repository metadata file
+repositoryID: 8c862b6e-5ea5-4dfd-b903-78fcc8315155
 owners: # (optional, used to claim repository ownership)
   - name: stakater-user
     email: stakater@gmail.com
