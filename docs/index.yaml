@@ -28245,6 +28245,25 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/storage-1.0.0.tgz
     version: 1.0.0
+  template-operator-test-chart:
+  - apiVersion: v2
+    created: "2026-02-25T13:55:59.597423441+05:00"
+    description: A minimal test chart for template-operator e2e and controller tests
+    digest: 7cda9f082ca97d6bd622710b32b5de1ebafdf8f8be59d79e658fb7e8469d6e68
+    name: template-operator-test-chart
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/template-operator-test-chart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    created: "2026-02-25T13:55:59.597207588+05:00"
+    description: A minimal test chart for template-operator e2e and controller tests
+    digest: bbac9160304685c54e6dab69b4d4302547698be24e535c2117fc6604dcdf760a
+    name: template-operator-test-chart
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/template-operator-test-chart-0.1.0.tgz
+    version: 0.1.0
   tenant-insights:
   - apiVersion: v2
     appVersion: 0.0.41
