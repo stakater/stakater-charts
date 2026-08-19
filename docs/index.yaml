@@ -239,6 +239,31 @@ entries:
     version: 0.1.1
   application:
   - apiVersion: v2
+    created: "2026-08-19T14:29:11.26559657Z"
+    description: Generic Helm chart for deploying stateless applications on Kubernetes
+    digest: 1373c3a489c809d15ec30a48ecd3b64be29f64f6afbe764c0b86080b624b9d51
+    home: https://github.com/stakater/application
+    icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
+    keywords:
+    - application
+    - chart
+    - stakater
+    - helm
+    - kubernetes
+    - openshift
+    - cronjob
+    - deployment
+    - ingress
+    - monitoring
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    name: application
+    type: application
+    urls:
+    - https://stakater.github.io/stakater-charts/application-9.3.0.tgz
+    version: 9.3.0
+  - apiVersion: v2
     created: "2026-08-19T14:23:15.971584307Z"
     description: Generic Helm chart for deploying stateless applications on Kubernetes
     digest: bae6db863e9b067c56ab398bbbb27643c1c933dbad6adada489a8fae87ec51f1
@@ -35061,4 +35086,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2026-08-19T14:23:15.968189203Z"
+generated: "2026-08-19T14:29:11.262862345Z"
