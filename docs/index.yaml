@@ -20196,6 +20196,35 @@ entries:
     version: 0.0.1
   reloader:
   - apiVersion: v2
+    appVersion: v2.0.0-beta.3
+    created: "2026-11-23T04:19:21.721396758Z"
+    dependencies:
+    - alias: enterprise
+      condition: enterprise.enabled
+      name: reloader-enterprise
+      repository: oci://ghcr.io/stakater/public/charts
+      version: 0.1.3
+    description: Reloader chart that runs on kubernetes
+    digest: bb149f95d4a829cd12ccfb5bc7246ef80643b99eb13c57aa41f0c6409fb874e3
+    home: https://github.com/stakater/Reloader
+    icon: https://raw.githubusercontent.com/stakater/Reloader/master/assets/web/reloader-round-100px.png
+    keywords:
+    - Reloader
+    - kubernetes
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    - email: rasheed@stakater.com
+      name: rasheedamir
+    - email: faizan@stakater.com
+      name: faizanahmad055
+    name: reloader
+    sources:
+    - https://github.com/stakater/Reloader
+    urls:
+    - https://stakater.github.io/stakater-charts/reloader-3.0.0-beta.6.tgz
+    version: 3.0.0-beta.6
+  - apiVersion: v2
     appVersion: v2.0.0-beta.2
     created: "2026-10-29T09:28:52.177907073Z"
     dependencies:
@@ -35443,4 +35472,4 @@ entries:
     urls:
     - https://stakater.github.io/stakater-charts/xposer-0.0.1.tgz
     version: 0.0.1
-generated: "2026-11-11T07:49:28.504633932Z"
+generated: "2026-11-23T04:19:21.715414706Z"
